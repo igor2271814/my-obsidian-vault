@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"4b0c3bc9cd8f2887","type":"file","file":"Для JS/Наебка777/Описание проекта.md","x":-400,"y":-400,"width":933,"height":502},
+		{"id":"7cc59aa5b261bbbe","type":"file","file":"Для JS/Наебка777/Описание игры Угадай множитель.md","x":-957,"y":340,"width":517,"height":339}
+	],
+	"edges":[
+		{"id":"ea5cac391b28bca2","fromNode":"4b0c3bc9cd8f2887","fromSide":"bottom","toNode":"7cc59aa5b261bbbe","toSide":"top"}
+	]
+}

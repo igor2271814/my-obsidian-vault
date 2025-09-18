@@ -1,0 +1,40 @@
+{
+	"nodes":[
+		{"id":"2b50b05de26221a7","type":"text","text":"index.html","x":-700,"y":-260,"width":250,"height":60},
+		{"id":"2843a5cff952a4a7","type":"text","text":"cinema.html","x":-240,"y":-260,"width":250,"height":60},
+		{"id":"c8d42730c58d25df","type":"text","text":"cinema-and-movies.html","x":260,"y":-260,"width":250,"height":60},
+		{"id":"4229f1869276d1b9","type":"text","text":"script.js\nstyle.scss\n\t/block","x":-240,"y":-640,"width":250,"height":128},
+		{"id":"29c437207cb6f0ea","type":"text","text":"itc-slider.js + itc-slider.css","x":-700,"y":-80,"width":250,"height":60},
+		{"id":"e84a2a49de46883e","type":"text","text":"cinemas.json","x":-240,"y":-80,"width":250,"height":60},
+		{"id":"d190ef1a9dd6f6ca","type":"text","text":"data.json","x":260,"y":-80,"width":250,"height":60},
+		{"id":"671ef370967b6c8f","type":"link","url":"https://igor2271814.github.io/cinema-booking/","x":-775,"y":-1400,"width":1320,"height":720},
+		{"id":"fbf94b32efc75788","x":-500,"y":759,"width":380,"height":221,"type":"text","text":"## Главная страница (index.html)\n-------\nклик \"Кинотеатры\"\n"},
+		{"id":"36505f5b626e3c70","x":-95,"y":760,"width":375,"height":220,"type":"text","text":"## Страница выбора кинотеатра (cinema.html)\n\n--------\n\nзагрузка cinemas.json\nклик на кинотеатр"},
+		{"id":"69e5dbbb833e3d65","type":"text","text":"[Пользователь]","x":-800,"y":845,"width":202,"height":50},
+		{"id":"c3347db7a919b5af","x":-40,"y":1080,"width":266,"height":50,"type":"text","text":"сохранение в localStorage"},
+		{"id":"8e9d73c771511e7d","x":320,"y":759,"width":380,"height":221,"type":"text","text":"## Информация и фильмы (cinema-and-movies.html)\n\n------\n\nфильтрация + отображение фильмов"},
+		{"id":"bd5163f29d8ff77a","x":385,"y":1075,"width":250,"height":60,"type":"text","text":"загрузка data.json"},
+		{"id":"4abc7ac02f7f384c","x":780,"y":763,"width":361,"height":213,"type":"text","text":"---\n\n---\n## клик на фильм\n\n------\n\nоткрытие модального окна сеансов"},
+		{"id":"b836c37532e46311","x":780,"y":1075,"width":361,"height":177,"type":"text","text":"## клик на сеанс\n\n-----\n\nоткрытие модального окна фильма\nвыбор мест"},
+		{"id":"109063a3a37e4dd3","x":780,"y":1360,"width":361,"height":160,"type":"text","text":"## клик \"Забронировать\"\n\n------\n\nподтверждение брони"},
+		{"id":"04779330400e7e10","x":450,"y":1410,"width":250,"height":60,"type":"text","text":"сохранение в localStorage"}
+	],
+	"edges":[
+		{"id":"95c7c772a6e001d0","fromNode":"2b50b05de26221a7","fromSide":"right","toNode":"2843a5cff952a4a7","toSide":"left"},
+		{"id":"0baec5b35831d19f","fromNode":"2843a5cff952a4a7","fromSide":"right","toNode":"c8d42730c58d25df","toSide":"left"},
+		{"id":"8d85e1116c996eda","fromNode":"29c437207cb6f0ea","fromSide":"top","toNode":"2b50b05de26221a7","toSide":"bottom"},
+		{"id":"16f80fc03e570a7a","fromNode":"4229f1869276d1b9","fromSide":"bottom","toNode":"2b50b05de26221a7","toSide":"top"},
+		{"id":"f8a57ea3299ff383","fromNode":"4229f1869276d1b9","fromSide":"bottom","toNode":"2843a5cff952a4a7","toSide":"top"},
+		{"id":"0ae3f9978b9e1200","fromNode":"4229f1869276d1b9","fromSide":"bottom","toNode":"c8d42730c58d25df","toSide":"top"},
+		{"id":"a1ec6a3473181151","fromNode":"d190ef1a9dd6f6ca","fromSide":"top","toNode":"c8d42730c58d25df","toSide":"bottom"},
+		{"id":"c6fdd8f39a42a6ae","fromNode":"e84a2a49de46883e","fromSide":"top","toNode":"2843a5cff952a4a7","toSide":"bottom"},
+		{"id":"f6c34c123721defe","fromNode":"e84a2a49de46883e","fromSide":"top","toNode":"c8d42730c58d25df","toSide":"bottom"},
+		{"id":"2dc3d312322bac2e","fromNode":"69e5dbbb833e3d65","fromSide":"right","toNode":"fbf94b32efc75788","toSide":"left"},
+		{"id":"aa96c148cf27220b","fromNode":"c3347db7a919b5af","fromSide":"top","toNode":"36505f5b626e3c70","toSide":"bottom"},
+		{"id":"fe5a8a554f35d3af","fromNode":"bd5163f29d8ff77a","fromSide":"top","toNode":"8e9d73c771511e7d","toSide":"bottom"},
+		{"id":"e3d92b987a1b3c3a","fromNode":"8e9d73c771511e7d","fromSide":"right","toNode":"4abc7ac02f7f384c","toSide":"left"},
+		{"id":"9901eff3c130be64","fromNode":"4abc7ac02f7f384c","fromSide":"bottom","toNode":"b836c37532e46311","toSide":"top"},
+		{"id":"4bac08f085e41568","fromNode":"04779330400e7e10","fromSide":"right","toNode":"109063a3a37e4dd3","toSide":"left"},
+		{"id":"83339a8b1001fa44","fromNode":"b836c37532e46311","fromSide":"bottom","toNode":"109063a3a37e4dd3","toSide":"top"}
+	]
+}
