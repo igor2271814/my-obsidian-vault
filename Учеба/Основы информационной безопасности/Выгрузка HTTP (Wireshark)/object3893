@@ -1,0 +1,29 @@
+-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Войти" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+<div class="item-list"><ul><li><a href="/index.php/user/register" title="Создать новую учётную запись пользователя." class="create-account-link">Регистрация</a></li><li><a href="/index.php/user/password" title="Отправить инструкции по сбросу пароля на электронную почту." class="request-password-link">Восстановить пароль</a></li></ul></div>
+  </div>
+
+  </div>
+
+					                <!-- меню -->
+				<!-- счётчик -->
+				<span id="sputnik-informer"></span>
+<script type="text/javascript">
+       (function(d, t, p) {
+           var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+           j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+           var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+       })(document, "script", document.location.protocol);
+    </script>
+				<!-- счётчик -->
+                </div>
+            </div>
+        </div>
+    </section>
+<!-- End: Sidebar -->
+<!-- Start: Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div 

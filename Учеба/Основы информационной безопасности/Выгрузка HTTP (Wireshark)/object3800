@@ -1,0 +1,20 @@
+itle="Контрольно-счётная палата Муниципального округа г. Партизанск">
+          Контрольно-счётная палата
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:6803eb52-dc89-419f-9407-e93508ff34b8" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="http://partizansky.prm.sudrf.ru/"  title="Партизанский городской суд">
+          Суд
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:6f9c6171-ff5e-4e64-9aab-ad72da3992cf" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/prokuratura_g_partizanska"  class="dropdown-toggle" title="Прокуратура города Партизанска" aria-expanded="false">
+          Прокуратура г. Партизанска
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid"

@@ -1,0 +1,32 @@
+>
+            </div>
+        </div>
+    </section>
+
+<!-- Start: Header -->
+
+    <header class="header"style="height: 61px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-8" style="width: 540px;">
+                    <div>
+                        <div class="header-text-title" style="height: 17px; font-weight:bold; text-decoration:none; color:#FFFFFF;">
+                                     		                <div class="region region-header-left-top">
+    <div id="block-mogp-sitebranding" class="settings-tray-editable block block-system block-system-branding-block" data-drupal-settingstray="editable">
+  
+    
+        <div class="site-name">
+      <a href="/index.php/" rel="home" style="text-decoration:none; color:#FFFFFF">Администрация муниципального округа город Партизанск Приморского края</a>
+    </div>
+    </div>
+
+  </div>
+
+          		                                   </div>
+                        <div class="header-text-slogan">
+                                     		                <div class="region region-header-left-bottom">
+    <div id="block-mogp-sitebranding-2" class="settings-tray-editable block block-system block-system-branding-block" data-drupal-settingstray="editable">
+  
+    
+          <div class="site-slogan">Официальный сайт</div>
+  </d

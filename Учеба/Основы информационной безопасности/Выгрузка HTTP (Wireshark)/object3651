@@ -1,0 +1,19 @@
+ <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:24c20ced-1bb4-4705-ac1e-eb4f586f9447" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/kro" >
+          Контрольно-ревизионный отдел
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:f7fca4e8-42b0-4a8b-bc8d-4002da27b6b1" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/otdel_zags"  title="Отдел записи актов гражданского состояния">
+          Отдел ЗАГС
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:43eebd0c-052a-4fe7-9a31-957d380177e6" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/ok"  title="Отдел культуры и молодёжной политики">
+          Отдел культуры
+          </a>
+ 

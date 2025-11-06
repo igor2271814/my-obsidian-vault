@@ -1,0 +1,13 @@
+5be70f01575 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/uptiokr" title="Управление по территориальной и организационно-контрольной работе" data-drupal-link-system-path="node/109">Управление по организационно-контрольной работе</a>
+              </li>
+                <li class="menu-item--_c20e8cc-35c1-44ec-8148-c686844ab210 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis" data-drupal-link-system-path="node/110">Управление экономики и собственности</a>
+                                <ul>
+                    <li class="menu-item--_4591822-ecc1-4516-80c6-3b9c0273a1fd menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/ob_upravlenii" data-drupal-link-system-path="node/111">Об управлении экономики и собственности</a>
+              </li>
+                <li class="menu-item--d2040ce6-fa71-45f6-b854-7c76106d3332 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/otdel_ekonomiki" data-drupal-link-system-path="node/2185">Отдел экономики</a>
+                                <ul>
+                    <li class="menu-item--_178b551-0ce9-43c5-94d6-de8a410b5518 menu-name--ma

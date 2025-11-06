@@ -1,0 +1,14 @@
+ga dropdown-submenu" data-id="menu_link_content:a2c8d4c9-66d1-483d-ba19-e434ebb19c1f" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/upravleniya/gkk"  class="dropdown-toggle" title="Управление жилищно-коммунального комплекса" aria-expanded="false">
+          Управление ЖКК
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-16">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-4 items-9" role="list">
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:611dc0c8-bc36-47aa-99a4-339d0a1c6d36" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/ob_upravlenii" >
+          Об управлении
+     

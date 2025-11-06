@@ -1,0 +1,28 @@
+" id="block-mogp-visuallyimpairedblock-5" data-drupal-settingstray="editable">
+  
+    
+      <form action="/user/js/bootstrap.min.js" method="post" id="visually-impaired-module-special--2" accept-charset="UTF-8">
+  <input itemprop="copy" data-drupal-selector="edit-visually-impaired-block" class="vi-special-block-image button js-form-submit form-submit" type="submit" id="edit-visually-impaired-block--2" name="op" value="Версия для слабовидящих" />
+<input autocomplete="off" data-drupal-selector="form-dku6nceu3ie63a78pdgvy2mxxtixjytzi6tbsdqtgfs" type="hidden" name="form_build_id" value="form-dkU6NCeu3IE63A78pdgVy2MxxtixjYtZi6tbSDQTGFs" />
+<input data-drupal-selector="edit-visually-impaired-module-special-2" type="hidden" name="form_id" value="visually_impaired_module_special" />
+
+</form>
+
+  </div>
+
+  </div>
+
+                    								</div>
+                        <a href="/user" class="header-icon">
+                            <img src="/themes/pgo/img/ilk.png" alt="Личный кабинет">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+	
+<!-- End: Header -->
+<!-- Start: Menu -->
+    <div class="menu-block">
+        <div class="container d-flex flex-row justify-content-between" style="display: flex !important; flex-direction: row; justify-content: flex-start; flex-wrap: nowrap; align-i

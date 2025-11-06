@@ -1,0 +1,23 @@
+persistent-login form-item-persistent-login">
+        <input data-drupal-selector="edit-persistent-login" type="checkbox" id="edit-persistent-login" name="persistent_login" value="1" class="form-checkbox" />
+
+        <label for="edit-persistent-login" class="option">Запомнить меня</label>
+      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Войти" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+<div class="item-list"><ul><li><a href="/index.php/user/register" title="Создать новую учётную запись пользователя." class="create-account-link">Регистрация</a></li><li><a href="/index.php/user/password" title="Отправить инструкции по сбросу пароля на электронную почту." class="request-password-link">Восстановить пароль</a></li></ul></div>
+  </div>
+
+  </div>
+
+							</div>
+						            	    <!-- меню для адаптива -->
+                </div>
+<!-- Start: Sidebar -->
+                <div class="col-lg-3 col-12 n-none">
+					                <!-- новости -->
+				<!-- организации -->
+					                <!-- организации -->
+                <!-- меню --

@@ -1,0 +1,14 @@
+vi/dist/js/bvi.min.js"></script>
+	
+	<script src="/bvi/dist/js/bvi.js"></script>
+<script>
+  new isvek.Bvi({
+    target: '.bvi-open',
+    fontSize: 14,
+  })
+</script>
+  </body>
+</html>
+
+0
+

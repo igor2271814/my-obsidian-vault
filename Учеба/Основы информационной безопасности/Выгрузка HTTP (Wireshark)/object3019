@@ -1,0 +1,21 @@
+, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "http://www.partizansk.org/"
+        }
+    ]
+}</script>
+<link rel="icon" href="/sites/default/files/garland_favicon_0_0.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Страница не найдена | Администрация муниципального округа город Партизанск Приморского края</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_pWmewZBfjDUyG7X93Nu1jZGQeQKeJNxmHHSl2clWw7Y.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XUZtLELfz-3UwQ4IE3lArMJVGz2dkjRPZVtCyL-vXW8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_2koT3Z_mAirlOGVNc344jheONX2l29eS__52hrzCt5g.css" />
+<link rel="stylesheet" medi

@@ -1,0 +1,18 @@
+iv>
+
+  </div>
+
+          		                                   </div>
+                    </div>
+                </div>
+                <div class="col-md-4 n-none" style="height: 24px; color:#FFFFFF; display: flex; flex-direction: row; justify-content: center; flex-wrap: nowrap; align-items: center;">
+					<div class="header-link-icon">
+						<img id="specialButton" style="cursor:pointer;" src="/themes/mogp/img/special.png" alt="Версия для слабовидящих" title="Версия для слабовидящих" />
+                    </div>
+					                          <div class="region region-header-midle">
+    <div class="visually-impaired-module-special settings-tray-editable block block-visually-impaired-module block-visually-impaired-block" data-drupal-selector="visually-impaired-module-special" id="block-mogp-visuallyimpairedblock-4" data-drupal-settingstray="editable">
+  
+    
+      <form action="/user/js/jquery.cookie.js" method="post" id="visually-impaired-module-special" accept-charset="UTF-8">
+  <input itemprop="copy" data-drupal-selector="edit-visually-impaired-block" class="vi-special-block-text button js-form-submit form-submit" type="submit" id="edit-visually-impaired-block" name="op" value="Версия для слабовидящих" />
+<input autocomplete="off" data-drupal-selector="form-yegrokvhs47anajilk0a46intm-1vtnqyqphvjj9u-s" type="hidden" name="f

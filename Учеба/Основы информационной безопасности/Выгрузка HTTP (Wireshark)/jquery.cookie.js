@@ -1,0 +1,2716 @@
+<!DOCTYPE html>
+<html lang="ru" dir="ltr" prefix="content: http://purl.org/rss/1.0/modules/content/  dc: http://purl.org/dc/terms/  foaf: http://xmlns.com/foaf/0.1/  og: http://ogp.me/ns#  rdfs: http://www.w3.org/2000/01/rdf-schema#  schema: http://schema.org/  sioc: http://rdfs.org/sioc/ns#  sioct: http://rdfs.org/sioc/types#  skos: http://www.w3.org/2004/02/skos/core#  xsd: http://www.w3.org/2001/XMLSchema# ">
+  <head>
+    <meta charset="utf-8" />
+	<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style></noscript>
+	<noscript><meta http-equiv="Refresh" content="0; URL=/big_pipe/no-js?destination=/node" /></noscript>
+	<meta name="geo.placename" content="г. Партизанск Приморского края" />
+	<meta name="geo.position" content="43.127966; 133.126543" />
+	<meta name="geo.region" content="RU-PRI" />
+	<meta name="icbm" content="43.127966, 133.126543" />
+	<link rel="canonical" href="https://partizansk.org.ru/" />
+	<meta http-equiv="content-language" content="ru" />
+	<link rel="shortlink" href="https://partizansk.org.ru/" />
+	<link rel="icon" type="image/ico" href="https://partizansk.org.ru/themes/pgo/templates/mogp_favicon.ico">
+	<meta name="rights" content="Информационный сайт создан и поддерживается администрацией муниципального округа город Партизанск. При использовании информации сайта - активная ссылка обязательна!" />
+	<meta name="description" content="Официальный сайт администрации Партизанского городского округа Приморского края" />
+	<meta name="dcterms.publisher" content="Sergey V. Usoltsev aka Mr.Torture. Created by (создание и поддержка) Sergey V. Usoltsev aka Mr.Torture" />
+	<meta name="dcterms.rights" content="Sergey V. Usoltsev aka Mr.Torture. Created by (создание и поддержка) Sergey V. Usoltsev aka Mr.Torture" />
+	<meta name="dcterms.created" content="25.03.2005" />
+	<meta name="dcterms.dateCopyrighted" content="2005-2025" />
+	<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+	<meta name="MobileOptimized" content="width" />
+	<meta name="HandheldFriendly" content="true" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="sputnik-verification" content="UFZcD1mqsqJmCKb3" />
+<script type="text/javascript">
+ (function(d, t, p) {
+  var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+  j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";;
+  var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+ })(document, "script", document.location.protocol);
+</script>
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(88459451, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/88459451" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+        <!-- start нг -->
+<!-- <link rel="stylesheet" href="http://partizansk.org/themes/impact_theme/templates/style.css">
+<script src="http://partizansk.org/themes/impact_theme/templates/script.js" defer></script>
+<script type="text/javascript" src="http://partizansk.org/themes/impact_theme/templates/jquery.min.js"></script>
+<script type="text/javascript" src="http://partizansk.org/themes/impact_theme/templates/swfobject.min.js"></script>
+<script type="text/javascript" src="http://partizansk.org/themes/impact_theme/templates/newyear.js"></script>
+<script type="text/javascript" src="http://partizansk.org/themes/impact_theme/templates/snowcursor.min.js"></script>
+<style type="text/css">
+#girland {position:absolute;top:0;left:0;background-image:url('http://partizansk.org/modules/christmas_lights/css/christmas-lights.png');height:36px;width:100%;overflow:hidden;z-index:102}   #noms_1 {padding:100px}   .girland_1 {background-position: 0 0}   .girland_2 {background-position: 0 -36px}   .girland_3 {background-position: 0 -72px}   .girland_4 {background-position: 0 -108px}
+</style>  -->
+        <!-- end нг -->
+    <meta charset="utf-8" />
+<noscript><style>form.antibot * :not(.antibot-message) { display: none !important; }</style>
+</noscript><meta name="description" content="Официальный сайт администрации Партизанского городского округа Приморского края" />
+<meta name="geo.placename" content="г. Партизанск Приморского края" />
+<meta name="geo.position" content="43.127966; 133.126543" />
+<meta name="geo.region" content="RU-PRI" />
+<meta name="icbm" content="43.127966, 133.126543" />
+<link rel="canonical" href="http://www.partizansk.org/" />
+<meta http-equiv="content-language" content="ru" />
+<link rel="shortlink" href="http://www.partizansk.org/" />
+<meta name="rights" content="Информационный сайт создан и поддерживается администрацией Партизанского городского округа. При использовании информации сайта - активная ссылка обязательна!" />
+<meta name="dcterms.publisher" content="Sergey V. Usoltsev aka Mr.Torture. Created by (создание и поддержка) Sergey V. Usoltsev aka Mr.Torture" />
+<meta name="dcterms.rights" content="Sergey V. Usoltsev aka Mr.Torture. Created by (создание и поддержка) Sergey V. Usoltsev aka Mr.Torture" />
+<meta name="dcterms.created" content="25.03.2005" />
+<meta name="dcterms.dateCopyrighted" content="2005-2025" />
+<meta name="Generator" content="Drupal 9 (https://www.drupal.org)" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Alegreya+Sans+SC:700,100,100italic,300,300italic,500,500italic,700italic,800,800italic,900,900italic,italic,regular|Alegreya:500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Alegreya+Sans:100,100italic,300,300italic,500,500italic,700,700italic,800,800italic,900,900italic,italic,regular|Alegreya+SC:500,700,700italic,800,800italic,900,900italic,italic,regular|Bitter:800,700italic,700,600italic,600,500italic,500,300,200italic,200,100italic,800italic,900,900italic,italic,regular|Bellota+Text:regular,700italic,700,300italic,300|Bellota:regular,italic,700italic,700,300italic,300|Balsamiq+Sans:regular,italic,700italic,700|Bad+Script:regular|Arsenal:regular,italic,700italic,700|Arimo:regular,italic,700italic,700,600italic,600,500italic,500|Anonymous+Pro:italic,700italic,700|Andika:regular|Amatic+SC:regular,700|Alice:regular|Brygada+1918:500,500italic,600,600italic,700,700italic,italic,regular|Caveat:500,600,700,regular|Comfortaa:300,500,600,700,regular|Commissioner:100,200,300,500,600,700,800,900,regular|Cormorant:300,300italic,500,500italic,600,600italic,700,700italic,italic,regular|Cormorant+Garamond:300,300italic,500,500italic,600,600italic,700,700italic,italic,regular|Cormorant+Infant:300,300italic,500,500italic,600,600italic,700,700italic,italic,regular|Cormorant+SC:300,500,600,700,regular|Cormorant+Unicase:300,500,600,700,regular|Cousine:700,700italic,italic,regular|Cuprum:500,500italic,600,600italic,700,700italic,italic,regular|Dela+Gothic+One:regular|Didact+Gothic:regular|DotGothic16:regular|EB+Garamond:500,500italic,600,600italic,700,700italic,800,800italic,italic,regular|El+Messiri:500,600,700,regular|Exo+2:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Fira+Code:300,500,600,700,regular|Fira+Mono:500,700,regular|Fira+Sans:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Fira+Sans+Condensed:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Fira+Sans+Extra+Condensed:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Forum:regular|Gabriela:regular|Hachi+Maru+Pop:regular|IBM+Plex+Mono:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,italic,regular|IBM+Plex+Sans:100,100italic,200,regular,italic,700italic,700,600italic,500italic,600,200italic,300,300italic,500|JetBrains+Mono:800,800italic,italic,regular,500italic,500,100,100italic,200,200italic,300,300italic,600,600italic,700,700italic|Istok+Web:italic,regular,700italic,700|Inter:regular,900,800,700,600,500,100,200,300|IBM+Plex+Serif:600italic,700,700italic,italic,regular,600,500italic,500,300italic,300,200italic,200,100italic,100|Jost:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,900,800italic,900italic,italic,regular|Jura:300,500,600,700,regular|Kelly+Slab:regular|Kiwi+Maru:300,regular,500|Kosugi+Maru:regular|Kosugi:regular|Ledger:regular|Literata:200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Kurale:regular|Lobster:regular|Lora:500,500italic,600,600italic,700,700italic,italic,regular|M+PLUS+1p:100,300,500,700,800,900,regular|M+PLUS+Rounded+1c:100,300,500,700,800,900,regular|Manrope:200,300,500,600,700,800,regular|Marck+Script:regular|Marmelad:regular|Merriweather:300,300italic,700,700italic,900,900italic,italic,regular|Montserrat:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,800,800italic,700italic,900,900italic,italic,regular|Montserrat+Alternates:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Neucha:regular|Noto+Sans:700,700italic,italic,regular|Noto+Serif:700,700italic,italic,regular|Nunito:200,200italic,300,300italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Old+Standard+TT:700,italic,regular|Open+Sans:300,300italic,600,600italic,700,700italic,800,800italic,italic,regular|Open+Sans+Condensed:300,300italic,700|Oranienbaum:regular|Oswald:200,300,500,600,700,regular|Pacifico:regular|Pangolin:regular|Pattaya:regular|Philosopher:700,700italic,italic,regular|Piazzolla:100,100italic,200,200italic,300,300italic,500,500italic,600,600italic,700,700italic,800,800italic,900,900italic,italic,regular|Play:700,regular|Stick:regular|Train+One:regular&amp;subset=cyrillic,cyrillic-ext&amp;display=swap" media="all" />
+<style>div#sliding-popup, div#sliding-popup .eu-cookie-withdraw-banner, .eu-cookie-withdraw-tab {background: #0779bf} div#sliding-popup.eu-cookie-withdraw-wrapper { background: transparent; } #sliding-popup h1, #sliding-popup h2, #sliding-popup h3, #sliding-popup p, #sliding-popup label, #sliding-popup div, .eu-cookie-compliance-more-button, .eu-cookie-compliance-secondary-button, .eu-cookie-withdraw-tab { color: #ffffff;} .eu-cookie-withdraw-tab { border-color: #ffffff;}</style>
+<script type="application/ld+json">{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "http://www.partizansk.org/"
+        }
+    ]
+}</script>
+<link rel="icon" href="/sites/default/files/garland_favicon_0_0.ico" type="image/vnd.microsoft.icon" />
+
+    <title>Страница не найдена | Администрация муниципального округа город Партизанск Приморского края</title>
+    <link rel="stylesheet" media="all" href="/sites/default/files/css/css_pWmewZBfjDUyG7X93Nu1jZGQeQKeJNxmHHSl2clWw7Y.css" />
+<link rel="stylesheet" media="all" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XUZtLELfz-3UwQ4IE3lArMJVGz2dkjRPZVtCyL-vXW8.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_2koT3Z_mAirlOGVNc344jheONX2l29eS__52hrzCt5g.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_9CzuAYFq4ccrRLRtiaydMVJLf8Pp5e3cUAYBCr9U-R0.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/colwid-dfdeab44fcf216e40e3057e37a1259ed.css?t4rri5" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_kwjtSrAkeaupUR3D3UWbgfwPDKZDF4-t4UINbLTS_T0.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/gradient_dlya_teksta-e092cc39e960ddda664e5e3c6f4a6c6f.css?t4rri5" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_XpI6tyqG2k8Bmwuf51ki2Jkl8Q-FSLebPOpOV-XxJWw.css" />
+<link rel="stylesheet" media="all" href="/sites/default/files/asset_injector/css/ul_tire-08f994050e95d7cc7c8663f391507306.css?t4rri5" />
+<link rel="stylesheet" media="all" href="/sites/default/files/css/css_N-Q5YnAuOBHMR7SHp9ndfGa2zNQs-yfHMt_IkjC0Sgs.css" />
+
+    
+	<link rel="stylesheet" href="/themes/pgo/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/themes/pgo/dist/slick/slick-theme.css">
+    <link rel="stylesheet" href="/themes/pgo/dist/slick/slick.css">
+    <link rel="stylesheet" href="/themes/pgo/css/fonts.css">
+    <link rel="stylesheet" href="/themes/pgo/css/main.css">
+	<script src="https://lidrekon.ru/slep/js/jquery.js"></script>
+<script src="https://lidrekon.ru/slep/js/uhpv-full.min.js"></script>
+  </head>
+        <!-- start нг -->
+
+        <!-- end нг -->
+  
+  
+  <body class="fontyourface path-user">
+          <a href="#main-content" class="visually-hidden focusable skip-link">
+       Перейти к основному содержанию
+     </a>
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <section class="vision">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="vision-block">
+                        <div class="vision-font vision-item">
+                            <div class="vision-font-small vision-item-btn active">
+                                A
+                            </div>
+                            <div class="vision-font-normal vision-item-btn">
+                                A
+                            </div>
+                            <div class="vision-font-big vision-item-btn">
+                                A
+                            </div>
+                        </div>
+                        <div class="vision-color vision-item">
+                            <div class="vision-color-white vision-item-btn active">
+                                
+                            </div>
+                            <div class="vision-color-black vision-item-btn">
+                                
+                            </div>
+                            <div class="vision-color-blue vision-item-btn">
+                                
+                            </div>
+                        </div>
+                        <div class="vision-font vision-item">
+                            <div class="vision-font-un vision-item-btn active">
+                                Без засечек
+                            </div>
+                            <div class="vision-font-in vision-item-btn">
+                                С засечками
+                            </div>
+
+                        </div>
+                        <div class="vision-leter vision-item">
+                            <div class="vision-leter-small vision-item-btn active">
+                                Стандартный <br> интервал
+                            </div>
+                            <div class="vision-leter-normal vision-item-btn">
+                                Средний <br> интервал
+                            </div>
+                            <div class="vision-leter-big vision-item-btn">
+                                Большой <br> интервал
+                            </div>
+                        </div>
+                        <div class="vision-hide">
+                            <a href="#">Обычная версия сайта</a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+<!-- Start: Header -->
+
+    <header class="header"style="height: 61px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-5 col-8" style="width: 540px;">
+                    <div>
+                        <div class="header-text-title" style="height: 17px; font-weight:bold; text-decoration:none; color:#FFFFFF;">
+                                     		                <div class="region region-header-left-top">
+    <div id="block-mogp-sitebranding" class="settings-tray-editable block block-system block-system-branding-block" data-drupal-settingstray="editable">
+  
+    
+        <div class="site-name">
+      <a href="/index.php/" rel="home" style="text-decoration:none; color:#FFFFFF">Администрация муниципального округа город Партизанск Приморского края</a>
+    </div>
+    </div>
+
+  </div>
+
+          		                                   </div>
+                        <div class="header-text-slogan">
+                                     		                <div class="region region-header-left-bottom">
+    <div id="block-mogp-sitebranding-2" class="settings-tray-editable block block-system block-system-branding-block" data-drupal-settingstray="editable">
+  
+    
+          <div class="site-slogan">Официальный сайт</div>
+  </div>
+
+  </div>
+
+          		                                   </div>
+                    </div>
+                </div>
+                <div class="col-md-4 n-none" style="height: 24px; color:#FFFFFF; display: flex; flex-direction: row; justify-content: center; flex-wrap: nowrap; align-items: center;">
+					<div class="header-link-icon">
+						<img id="specialButton" style="cursor:pointer;" src="/themes/mogp/img/special.png" alt="Версия для слабовидящих" title="Версия для слабовидящих" />
+                    </div>
+					                          <div class="region region-header-midle">
+    <div class="visually-impaired-module-special settings-tray-editable block block-visually-impaired-module block-visually-impaired-block" data-drupal-selector="visually-impaired-module-special" id="block-mogp-visuallyimpairedblock-4" data-drupal-settingstray="editable">
+  
+    
+      <form action="/user/js/jquery.cookie.js" method="post" id="visually-impaired-module-special" accept-charset="UTF-8">
+  <input itemprop="copy" data-drupal-selector="edit-visually-impaired-block" class="vi-special-block-text button js-form-submit form-submit" type="submit" id="edit-visually-impaired-block" name="op" value="Версия для слабовидящих" />
+<input autocomplete="off" data-drupal-selector="form-yegrokvhs47anajilk0a46intm-1vtnqyqphvjj9u-s" type="hidden" name="form_build_id" value="form-yEgRokVHS47ANAJILK0a46iNTm_1vtnQYqphVJJ9U-s" />
+<input data-drupal-selector="edit-visually-impaired-module-special" type="hidden" name="form_id" value="visually_impaired_module_special" />
+
+</form>
+
+  </div>
+
+  </div>
+
+                    &nbsp;
+                </div>
+                <div class="col-md-3 n-none">
+					<a href="/user" class="header-link">
+                        <div class="header-link-icon">
+                            <img src="/themes/pgo/img/lk.png" alt="Личный кабинет">
+                        </div>
+                        <div class="header-link-text" style="text-decoration:none;">
+                            Личный кабинет
+                        </div>
+                    </a>
+                </div>
+                <div class="col-4 n-block" style="display: flex; flex-direction: row; justify-content: flex-end; flex-wrap: nowrap; align-items: center;">
+                    <div class="header-icons" style="display: flex; flex-direction: row; justify-content: flex-end; flex-wrap: nowrap; align-items: center;">
+						<div style="width: 51px">
+							                        		  <div class="region region-header-midle-adaptive">
+    <div class="visually-impaired-module-special settings-tray-editable block block-visually-impaired-module block-visually-impaired-block" data-drupal-selector="visually-impaired-module-special-2" id="block-mogp-visuallyimpairedblock-5" data-drupal-settingstray="editable">
+  
+    
+      <form action="/user/js/jquery.cookie.js" method="post" id="visually-impaired-module-special--2" accept-charset="UTF-8">
+  <input itemprop="copy" data-drupal-selector="edit-visually-impaired-block" class="vi-special-block-image button js-form-submit form-submit" type="submit" id="edit-visually-impaired-block--2" name="op" value="Версия для слабовидящих" />
+<input autocomplete="off" data-drupal-selector="form-dku6nceu3ie63a78pdgvy2mxxtixjytzi6tbsdqtgfs" type="hidden" name="form_build_id" value="form-dkU6NCeu3IE63A78pdgVy2MxxtixjYtZi6tbSDQTGFs" />
+<input data-drupal-selector="edit-visually-impaired-module-special-2" type="hidden" name="form_id" value="visually_impaired_module_special" />
+
+</form>
+
+  </div>
+
+  </div>
+
+                    								</div>
+                        <a href="/user" class="header-icon">
+                            <img src="/themes/pgo/img/ilk.png" alt="Личный кабинет">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+	
+<!-- End: Header -->
+<!-- Start: Menu -->
+    <div class="menu-block">
+        <div class="container d-flex flex-row justify-content-between" style="display: flex !important; flex-direction: row; justify-content: flex-start; flex-wrap: nowrap; align-items: center;">
+            <div class="row" style="width: 100%">
+                <div class="col-12.row d-flex flex-row justify-content-between" style="display: flex !important; flex-direction: row !important; justify-content: space-between !important; flex-wrap: nowrap; align-items: center; width: 100%;">
+					<div class="d-flex flex-row justify-content-between" style="display: flex !important; flex-direction: row !important; justify-content: flex-start !important; flex-wrap: nowrap !important; align-items: center !important; width: 100%; padding-right: 15px; padding-left: 15px; min-height: 64px; height: 64px;">
+						<div style="margin-right: 15px; display: flex !important; flex-direction: row !important; justify-content: flex-start !important; flex-wrap: nowrap; align-items: center;">
+							<a href="/" rel="home" class="site-logo" style=" background-color: #fff;">
+								<img src="/themes/pgo/img/gerb.png" alt="Главная" style="height: 45px; width: 40px;" />
+							</a>
+						</div>
+													  <div class="region region-menu">
+    <div id="block-mogp-glavnoemenyu-7" class="settings-tray-editable block block-tb-megamenu block-tb-megamenu-menu-blockmain" data-drupal-settingstray="editable">
+  
+    
+      <style type="text/css">
+  .tb-megamenu.animate .mega > .mega-dropdown-menu, .tb-megamenu.animate.slide .mega > .mega-dropdown-menu > div {
+    transition-delay: 200ms;  -webkit-transition-delay: 200ms;  -ms-transition-delay: 200ms;  -o-transition-delay: 200ms;  transition-duration: 400ms;  -webkit-transition-duration: 400ms;  -ms-transition-duration: 400ms;  -o-transition-duration: 400ms;
+  }
+</style>
+<div  class="tb-megamenu tb-megamenu-main style-blue animate fading" data-duration="400" data-delay="200" id="tb-megamenu-main" role="navigation" aria-label="Главное меню">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse  always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-8" role="list" >
+        <li  class="tb-megamenu-item level-1 mega dropdown" data-id="standard.front_page" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/"  class="dropdown-toggle" aria-expanded="false">
+          Главная
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-6" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:df26d46b-3626-414c-962f-c580bab71ba1" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="http://mail.partizansk.org/" >
+          Электронная почта
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:54901826-33c2-45db-9a2b-c950041e895f" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/struktura/upravleniya/fu/mestnye_nalogi" >
+          Местные налоги
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b7bc2cbc-f5b5-43d5-87b1-1bfa2749198d" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/gragdanskaya_oborona" >
+          Гражданская оборона
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:4e4d5efc-fce3-477a-bee4-3c6ad76470c7" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/autobus"  title="Расписание движения городских автобусов">
+          Расписание автобусов
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:92f9cda0-668b-408d-ba4e-22fd1a094521" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="http://www.expresspk.ru/?c=rasp"  title="Расписание движения пригородных электропоездов">
+          Расписание электричек
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:106dd87b-7a04-4504-8a5f-55038e756b0e" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="http://svod.partizansk.org"  title="Отчётность бюджетополучателей">
+          Свод-WEB
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:30e38fe3-046b-4bb7-a25e-df85f6243638" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/information"  class="dropdown-toggle" title="Общие сведения о муниципальном округе город Партизанск Приморского края" aria-expanded="false">
+          Партизанск
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-2">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-6" role="list">
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:6d59c7a1-db99-469b-997f-62611b41fb36" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/information/geraldic"  class="dropdown-toggle" title="Герб, Флаг и Гимн муниципального округа город Партизанск Приморского края" aria-expanded="false">
+          Геральдика
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-3">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-1" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:aecb859c-4f31-4fd4-89cb-b59d10a2843c" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration_na/mpa_n_29_ot_2008_05_30_1116201107_o_prinyatii_polozheniya_o_gerbe_partizanskogo" >
+          Решение Думы «О гербе Партизанского городского округа»
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:03907aef-061a-470a-892a-1515eda1eacc" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/information/history"  title="Историческая справка о городе Партизанске">
+          Историческая справка
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:9ff4815c-7147-4150-9a33-d71fd2ad3319" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/pochet" >
+          Почётные жители
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:f4585be9-1e1b-47ee-86fa-337c74f8ae44" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/information/fotogalereya"  class="dropdown-toggle" aria-expanded="false">
+          Фотогалерея
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-4">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-5" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:05e755db-a119-4ff0-9315-43ac3b2a68d1" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/information/fotogalereya/starye_fotografii_nashego_goroda" >
+          Старые фотографии нашего города
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:db24e51b-51b3-49f8-bd9a-ce866768c14e" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/information/fotogalereya/starye_fotografii_nashego_goroda_prodolzhenie" >
+          Старые фотографии нашего города (продолжение)
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:55fd1b1a-0715-4837-ae80-a2d392e4c4e6" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/information/fotogalereya/starye_fotografii_goroda" >
+          Старые фотографии города
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:663b8ee3-2629-4b46-8418-8ba2a961961b" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/information/fotogalereya/stariy_i_noviy_partizansk" >
+          Старый и новый Партизанск
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:42138c75-4a86-4c78-b020-8c2fc16f7e46" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/content/gallery/14046_suchanskie_kamennougolnye_kopi" >
+          Сучанские каменноугольные копи
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:e4ea7592-5f26-4ac3-9dc0-62b3e5d1cc74" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/information/kniga_partizansku_125_let_gorod_v_licakh_i_sudbakh" >
+          Книга «Партизанску 125 лет. Город в лицах и судьбах.»
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:46b81987-ffe6-48f3-b9fd-8725045a2927" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/information/kniga_o_geologakh_s_pristrastiem" >
+          Книга «О геологах – с пристрастием»
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega dropdown" data-id="menu_link_content:7cee603f-8e51-4954-8492-7e1759f333c1" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/glava"  class="dropdown-toggle" title="Глава муниципального округа город Партизанск Приморского края" aria-expanded="false">
+          Глава МОГП
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-5">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-4" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:2e0b7e40-4b8a-4c29-acce-c3ad0f790ba8" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/glava/otchyoty_glavy" >
+          Отчёты главы
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:57c6e296-c4ce-48c7-8ca4-eb985791c7af" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/1zam"  title="Первый заместитель главы администрации муниципального округа город Партизанск Приморского края">
+          Первый заместитель
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:76a4fc93-a532-46a1-9fa0-dc9d9d88a16c" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/zamestiteli_glavy"  title="Заместители главы администрации муниципального округа город Партизанск Приморского края">
+          Заместители главы администрации
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="views_view:views.gpg.page_1" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/gpg"  class="dropdown-toggle" title="График приёма граждан по личным вопросам" aria-expanded="false">
+          График приёма граждан
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-6">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-11" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:8a71a004-fdb8-419b-aa3c-4c6f795d9be0" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/noyabr_2025_g" >
+          ноябрь 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:9476f7a5-ba91-44ea-9dd4-c6d32e922a50" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/oktyabr_2025_g" >
+          октябрь 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:fcb3803d-ef59-41ab-af16-7de86885d953" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/sentyabr_2025_g" >
+          сентябрь 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:85e82d66-3866-4832-9330-709890d09a71" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/avgust_2025_g" >
+          август 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:190bb644-4520-4114-847a-ed3ffe7852e8" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/iyul_2025_g" >
+          июль 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:25d8b083-1235-4ecd-84df-465c2465bb9f" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/iyun_2025_g" >
+          июнь 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:b521c066-0fb0-4940-b3d0-ab1710ad26dc" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/may_2025_g" >
+          май 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:eff2d4c6-a02e-465b-acae-64ee2de37c7c" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/aprel_2025_g" >
+          апрель 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:8ddc1633-6671-4cec-9f93-30c7b4bf9ba2" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/mart_2025_g" >
+          март 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:92a0ceb7-dc64-43f0-9d3f-9217c6fc8a8e" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/fevral_2025_g" >
+          февраль 2025 г.
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:b9bd90b4-0bd1-4c0d-9260-7f0c9b4bcab9" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/gpg/yanvar_2025_g" >
+          январь 2025 г.
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega mega-align-center dropdown" data-id="menu_link_content:63acec76-a758-4926-a406-ad41f87416bc" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="center" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/administration"  class="dropdown-toggle" aria-expanded="false">
+          Администрация
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="800" style="width: 800px;" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span4 mega-col-nav" data-class="" data-width="4" data-hidewcol="0" id="tb-megamenu-column-7">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-4" role="list">
+        <li  class="tb-megamenu-item level-2 mega mega-group" data-id="menu_link_content:78a53a92-a543-465d-bf66-4c2994ba540e" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/struktura"  class="mega-group-title" title="Структура администрации муниципального округа город Партизанск" aria-expanded="false">
+          Структура
+          </a>
+  <div  class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-8">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-6" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:758a9546-9480-4bbf-9c65-5b0b1ba0ec7c" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/glava"  title="Глава муниципального округа город Партизанск Приморского края">
+          Глава МО г. Партизанск
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:b8646079-ac59-4001-9c90-412ed105dcd9" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/1zam"  title="Первый заместитель главы администрации муниципального округа город Партизанск Приморского края">
+          Первый заместитель главы
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:af330635-355b-4a11-bbd0-25f25cacc1f3" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/zamestiteli_glavy"  title="Заместители главы администрации муниципального округа город Партизанск Приморского края">
+          Заместители главы администрации
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega dropdown-submenu" data-id="menu_link_content:575378c5-4b7e-4808-8c7d-a56e8f39cd89" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/upravleniya"  class="dropdown-toggle" aria-expanded="false">
+          Управления
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-9">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-3 items-7" role="list">
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:9cadbd12-5330-4efc-a0c0-746099adf9ab" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/upravleniya/ubuio"  title="Управление бухгалтерского учёта и отчётности">
+          Управление бухгалтерского учёта
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega dropdown-submenu" data-id="menu_link_content:c9103485-dbf1-44a0-9750-a5523499ce06" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/upravleniya/fu"  class="dropdown-toggle" title="Финансовое управление администрации муниципального округа город Партизанск" aria-expanded="false">
+          Финансовое управление
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-10">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-4 items-1" role="list">
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:ec29ef3f-52cd-4fa0-8ced-723dc02a8969" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/fu/o_fu"  title="О финансовом управлении администрации Партизанского городского округа">
+          О финансовом управлении
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:7084fdc5-54d9-4217-8eb1-45be70f01575" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/upravleniya/uptiokr"  title="Управление по территориальной и организационно-контрольной работе">
+          Управление по организационно-контрольной работе
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega dropdown-submenu" data-id="menu_link_content:7c20e8cc-35c1-44ec-8148-c686844ab210" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/upravleniya/ueis"  class="dropdown-toggle" aria-expanded="false">
+          Управление экономики и собственности
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-11">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-4 items-7" role="list">
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:64591822-ecc1-4516-80c6-3b9c0273a1fd" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/ueis/ob_upravlenii" >
+          Об управлении экономики и собственности
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega dropdown-submenu" data-id="menu_link_content:d2040ce6-fa71-45f6-b854-7c76106d3332" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/ueis/otdel_ekonomiki"  class="dropdown-toggle" aria-expanded="false">
+          Отдел экономики
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-12">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-5 items-1" role="list">
+        <li  class="tb-megamenu-item level-6 mega" data-id="menu_link_content:1178b551-0ce9-43c5-94d6-de8a410b5518" data-level="6" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="6" >
+      <a href="/administration/struktura/upravleniya/ueis/otdel_ekonomiki/trud" >
+          Труд
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:2b4817ba-02db-4fd7-b6a7-d9e4a1b49653" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/ueis/torg"  title="Специалисты по вопросам потребительского рынка">
+          Специалисты по вопросам потребительского рынка
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega dropdown-submenu" data-id="menu_link_content:d1ca140a-54cd-4779-bca1-2f788cf15985" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/ueis/oio"  class="dropdown-toggle" aria-expanded="false">
+          Отдел имущественных отношений
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-13">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-5 items-2" role="list">
+        <li  class="tb-megamenu-item level-6 mega" data-id="menu_link_content:946143dc-d9cb-43bc-a159-cf98da59f978" data-level="6" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="6" >
+      <a href="/administration/struktura/upravleniya/ueis/oio/ob_otdele_imuschestvennykh_otnosheniy" >
+          Об отделе имущественных отношений
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-6 mega" data-id="menu_link_content:6308c418-e793-4059-b9bf-ab4a5cd22b4e" data-level="6" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="6" >
+      <a href="/administration/struktura/upravleniya/ueis/oio/aukcionnye_torgi" >
+          Аукционные торги
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:402d4ffd-d9b6-457e-b9e2-5257285a310e" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/ueis/otr" >
+          Отдел территриального развития
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega dropdown-submenu" data-id="menu_link_content:496d1513-4183-40f8-a7f7-b00cca791485" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/ueis/oapkioos"  class="dropdown-toggle" title="Отдел агропромышленного комплекса и охраны окружающей среды" aria-expanded="false">
+          Отдел АПКиООС
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-14">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-5 items-1" role="list">
+        <li  class="tb-megamenu-item level-6 mega" data-id="menu_link_content:c9446dca-aaa0-4881-8f09-047c664e336d" data-level="6" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="6" >
+      <a href="/administration/struktura/upravleniya/ueis/oapkioos/ob_otdele"  title="Об отделе агропромышленного комплекса и охраны окружающей среды">
+          Об отделе
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:7f5a492d-9383-4715-b597-a2676233938d" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/ueis/opupg" >
+          Отдел по учёту и переселению граждан
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega dropdown-submenu" data-id="menu_link_content:3f1253e5-9778-4eb4-b0f3-25fea5a42c2c" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/upravleniya/uobr"  class="dropdown-toggle" title="Управление образования администрации Партизанского муниципального округа г. Партизанск Приморского края" aria-expanded="false">
+          Управление образования
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-15">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-4 items-2" role="list">
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:a9d66a9f-6024-43c8-9276-ff502820a891" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="http://ooapgo.partizansk.org/"  title="Официальный сайт управления образования администрации Партизанского городского округа">
+          Управление образования
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:71eea306-4775-4c97-80d2-3c35dd3c3631" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/uobr/opeka"  title="Отдел по исполнению государственных полномочий в сфере опеки и попечительства управления образования администрации муниципального округа город Партизанск">
+          Опека и попечительство
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega dropdown-submenu" data-id="menu_link_content:a2c8d4c9-66d1-483d-ba19-e434ebb19c1f" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/upravleniya/gkk"  class="dropdown-toggle" title="Управление жилищно-коммунального комплекса" aria-expanded="false">
+          Управление ЖКК
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-16">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-4 items-9" role="list">
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:611dc0c8-bc36-47aa-99a4-339d0a1c6d36" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/ob_upravlenii" >
+          Об управлении
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:0bf08b22-7f2b-4b9f-a328-a6eba658f624" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/planovye_proverki" >
+          Плановые проверки
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:fd5c2514-31c8-4444-884b-214ddc3457b8" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/gorodskie_dispetcherskie_sluzhby" >
+          Городские диспетчерские службы
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:a547b0c7-cc1f-478d-a1d6-80ff1ef59e77" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/pravila_blagoustroystva_territorii_partizanskogo"  title="Правила благоустройства территории Партизанского городского округа">
+          Правила благоустройства
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:16a91a33-541e-4226-98cb-213772ef01a5" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/kapitalnyy_remont_mnogokvartirnykh_domov"  title="Капитальный ремонт многоквартирных домов">
+          Капитальный ремонт
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:88d419c5-9a72-489d-ad4b-d25c8b1e45f8" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/skhema_teplosnabzheniya" >
+          Схема теплоснабжения,водоснабжения. Программа комплексного развития систем коммун.инфраструктуры
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:b4e1c5ae-0856-4633-a686-30b9abb8b94d" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/podgotovka_k_otopitelnomu_sezonu" >
+          Подготовка к отопительному сезону
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:6c0ae775-2673-448b-858f-66af9ed39e9a" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/tarify_normativy" >
+          Тарифы, нормативы
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-5 mega" data-id="menu_link_content:ba15ee92-04ae-45d3-a3a1-d07b89e86640" data-level="5" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="5" >
+      <a href="/administration/struktura/upravleniya/gkk/informirovanie_grazhdan" >
+          Информирование граждан
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:35127b1e-57a3-4712-93b7-eef67708eeb0" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/upravleniya/ahu" >
+          Административно-хозяйственное управление
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega dropdown-submenu" data-id="menu_link_content:a8d83208-1044-4b31-97e5-063933a9c162" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/otdely"  class="dropdown-toggle" aria-expanded="false">
+          Отделы
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-17">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-3 items-9" role="list">
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:24c20ced-1bb4-4705-ac1e-eb4f586f9447" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/kro" >
+          Контрольно-ревизионный отдел
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:f7fca4e8-42b0-4a8b-bc8d-4002da27b6b1" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/otdel_zags"  title="Отдел записи актов гражданского состояния">
+          Отдел ЗАГС
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:43eebd0c-052a-4fe7-9a31-957d380177e6" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/ok"  title="Отдел культуры и молодёжной политики">
+          Отдел культуры
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:dca31a3f-293e-4c47-9e7d-80384cdd7f81" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/omsik" >
+          Отдел муниципальной службы и кадров
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:4e4bec8b-29d5-4d42-be90-24038b614d15" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/otdel_po_zakupkam" >
+          Отдел по закупкам
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:23c821a3-e6fa-4c94-86fd-609eca146ba1" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/otdel_po_mob_rabote" >
+          Отдел по мобилизационной работе
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:912497ab-a3be-4362-8ca3-d8b3e368f4de" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/otdel_ovfa" >
+          Отдел по осуществлению внутреннего финансового аудита
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:bf773835-d290-4c78-ba99-8d2909bcc31a" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/jurotdel" >
+          Отдел правового обеспечения
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:37726a07-9518-446b-ae62-6614c6bd9d55" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/struktura/otdely/sport" >
+          Отдел физической культуры и спорта
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:794ca6c2-bf55-4624-864f-5dc61299fb02" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/archive"  title="Муниципальный архив муниципального округа город Партизанск">
+          Муниципальный архив
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="views_view:views.department.page_1" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/phone"  title="Телефонный справочник администрации муниципального округа город Партизанск">
+          ✆ Телефонный справочник
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:8837ee90-7b3d-4921-9d4c-27734e6f7931" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/grafik_raboty_administracii_municipalnogo_okruga_gorod_partizansk"  title="График работы администрации муниципального округа город Партизанск">
+          График работы
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:066b6075-398d-44b7-b61d-a0e47b067434" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/plan_raboty_amogp"  class="dropdown-toggle" title="План работы администрации муниципального округа город Партизанск" aria-expanded="false">
+          План работы администрации
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-18">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-6" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:09531452-fb4f-4a2d-8640-7b96470fe419" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/plan_raboty_amogp/informaciya_o_khode_2025" >
+          Информация о ходе выполнения перспективного плана работы на 2025 год
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:196a8033-771b-4765-ab58-8473cb058cbc" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/plan_raboty_amogp/informaciya_o_khode_vypolneniya_perspektivnogo_plana_raboty_na" >
+          Информация о ходе выполнения перспективного плана работы на 2024 год
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:0989d2e2-24dc-452f-bcd4-1db32adca084" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/plan_raboty_amogp/informaciya_o_khode_2023" >
+          Информация о ходе выполнения перспективного плана работы на 2023 год
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:07fc5920-f7d8-404d-b9ee-164d981447e1" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/plan_raboty_amogp/informaciya_o_khode_2022" >
+          Информация о ходе выполнения перспективного плана работы на 2022 год
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:f25305d7-b2aa-4993-bc44-e03abac13e27" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/plan_raboty_amogp/informaciya_o_khode_2021" >
+          Информация о ходе выполнения перспективного плана работы на 2021 год
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:1a6bd8c8-45df-48b5-a70d-76ff9ba36e99" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/plan_raboty_amogp/informaciya_o_khode_2020" >
+          Информация о ходе выполнения перспективного плана работы на 2020 год
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+      <div  class="tb-megamenu-column span4 mega-col-nav" data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-19">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-4" role="list">
+        <li  class="tb-megamenu-item level-2 mega mega-group" data-id="menu_link_content:debebd62-a069-42e6-afdc-4adbde0e3c7b" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/struktura/otdely/omsik/mun_sluzhba"  class="mega-group-title" aria-expanded="false">
+          Муниципальная служба
+          </a>
+  <div  class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-20">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-7" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:ee5377e7-5f4d-40f0-b069-1dc817dd762a" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/otdely/omsik/mun_sluzhba/protiv_korrupcii/sved_o_doh"  title="СВЕДЕНИЯ О ДОХОДАХ, РАСХОДАХ, ИМУЩЕСТВЕ И ОБЯЗАТЕЛЬСТВАХ ИМУЩЕСТВЕННОГО ХАРАКТЕРА">
+          Сведения о доходах
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:42354087-84d8-489c-b539-a1c116ca7633" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/otdely/omsik/mun_sluzhba/attestaciya" >
+          Аттестация
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:78ad3646-f1e9-4165-86d5-f02360dc4f42" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/otdely/omsik/mun_sluzhba/konkurs" >
+          Конкурс
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:31870058-13bc-45df-86cd-2ffdbf48a57a" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/otdely/omsik/mun_sluzhba/vakansii" >
+          Вакансии
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:01ecf2bb-064c-418e-b1cd-5adef1907e57" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/otdely/omsik/mun_sluzhba/normativnye_akty" >
+          Нормативные акты
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:b2085ca9-01b3-4e88-a419-7dc89a1db017" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/otdely/omsik/mun_sluzhba/personalnye_dannye" >
+          Персональные данные
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:0b59f535-6bb2-4dae-aa3e-55ae065a52c1" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/struktura/otdely/omsik/mun_sluzhba/protiv_korrupcii" >
+          Противодействие коррупции
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:3ae0020a-0832-4121-a709-5a526901f02b" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/okhrana_truda"  class="dropdown-toggle" aria-expanded="false">
+          Охрана труда
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-21">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-1" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:e57489f7-e134-47af-aa64-f31434bdd25f" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/okhrana_truda/vedomstvennyy_kontrol"  title="Ведомственный контроль за соблюдением трудового законодательства и иных нормативных правовых актов, содержащих нормы трудового права, на территории Приморского края">
+          Ведомственный контроль
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:c3206764-fa96-4ab5-947c-1169358e7ed4" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/otdel_po_osuschestvleniyu_gosudarstvennykh_polnomochiy_po_ispolneniyu_administrativnogo"  title="Отдел по осуществлению государственных полномочий по исполнению административного законодательства">
+          Административная комиссия
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:c47255ef-0811-452a-bf42-f7a9e272f58c" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/kdn" >
+          Комиссия по делам несовершеннолетних
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+      <div  class="tb-megamenu-column span4 mega-col-nav" data-class="" data-width="4" data-hidewcol="" id="tb-megamenu-column-22">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-5" role="list">
+        <li  class="tb-megamenu-item level-2 mega mega-group" data-id="menu_link_content:57854d43-b265-44c6-a897-63952f6a7ad5" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/informaciya_o_proverkakh"  class="mega-group-title" aria-expanded="false">
+          Информация о проверках
+          </a>
+  <div  class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-23">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-4" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:22dfbe0e-1b2c-4e40-a0d9-f4e0d51799c9" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/informaciya_o_proverkakh/plany_proverok"  title="Ежегодные планы проведения плановых проверок юридических лиц и индивидуальных предпринимателей">
+          Планы проверок
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:78ad95c3-f1bc-44f3-9604-4fc6eed3d490" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/informaciya_o_proverkakh/inf_o_proverkakh" >
+          Информация о проверках в рамках муниципального контроля
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega dropdown-submenu" data-id="menu_link_content:cc5111b8-b8f7-4e58-984e-0a9740db729f" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/informaciya_o_proverkakh/municipalnyy_kontrol"  class="dropdown-toggle" aria-expanded="false">
+          Муниципальный контроль
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-24">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-3 items-6" role="list">
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:39d78b14-6ca6-4f50-aa73-c0fac89ab493" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_zhilischnyy_kontrol_v"  title="Муниципальный жилищный контроль в сфере ЖКХ">
+          Муниципальный жилищный контроль
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:04a22fc6-dab1-4717-886b-78ed80fa037c" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_kontrol_na_avtomobilnom" >
+          Муниципальный контроль на автомобильном транспорте, городском наземном электрическом транспорте и в дорожном хозяйстве
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:d12636a0-032a-4a50-a377-c60c46c6e44e" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_lesnoy_kontrol" >
+          Муниципальный лесной контроль
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:38eb1c81-eadc-4c3f-88f1-a32b0d2f1b6e" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_zemelnyy_kontrol" >
+          Муниципальный земельный контроль
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:2e16e25b-6835-4d65-93e2-95ebf6e4d199" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_kontrol_v_sfere" >
+          Муниципальный контроль в сфере благоустройства
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-4 mega" data-id="menu_link_content:4451e5c9-1920-46a4-a76a-63b289cdd495" data-level="4" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="4" >
+      <a href="/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_kontrol_za_ispolneniem" >
+          Муниципальный контроль за исполнением единой теплоснабжающей организацией обязательств по строительству, реконструкции и (или) модернизации объектов теплоснабжения
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:33d4083e-1692-437f-a36a-485170553cdb" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/administration/informaciya_o_proverkakh/vedomstvennyy_kontrol" >
+          Ведомственный контроль
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1a80f9ee-5f9f-4bfb-ba03-77cec43f1dda" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/perechni_informacionnykh_sistem_bankov_dannykh_reestrov_registrov_nakhodyaschikhsya"  title="Перечни информационных систем, банков данных, реестров, регистров, находящихся в ведении органов местного самоуправления">
+          Перечни информационных систем
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:d40219c2-df6b-40e8-8d62-da1440a53564" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/svedeniya_o_sredstvakh_massovoy_informacii_uchrezhdennykh_organami_mestnogo"  title="Сведения о средствах массовой информации, учрежденных органами местного самоуправления">
+          Средства массовой информации
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:17ee782e-340a-476c-8c52-7c9459128849" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/antiterror" >
+          Антитеррористическая деятельность
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:603c2348-366c-49fb-bcf5-707e14ba4eaf" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/administration/struktura/otdely/omsik/municipalnaya_sluzhba/protivodeystvie_korrupcii/nezavisimaya" >
+          Независимая антикоррупционная экспертиза
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega mega-align-center dropdown" data-id="menu_link_content:e5892639-3232-40f7-8d00-566de625b3df" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="center" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/contact"  class="dropdown-toggle" aria-expanded="false">
+          Приёмная
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="" id="tb-megamenu-column-25">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-1" role="list">
+        <li  class="tb-megamenu-item level-2 mega mega-group" data-id="menu_link_content:ea5f2a1f-f38d-40f2-b460-2f3685049b39" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/rso"  class="mega-group-title" aria-expanded="false">
+          Работа с общественностью
+          </a>
+  <div  class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-26">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-6" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:d93fef06-6665-451d-8db2-787aa572afbe" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/rso/obschestvennaya_priemnaya" >
+          Общественная приемная
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:4c3028c5-926b-4a82-8143-48f161aa3400" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/rso/informacionnye_vstrechi" >
+          Информационные встречи
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:c265f225-dc59-4407-94e8-5f105ecbcdd4" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/rso/press_konferencii_glavy_administracii_partizanskogo_gorodskogo_okruga"  title="Пресс-конференции главы администрации Партизанского городского округа">
+          Пресс-конференции
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:e59ae09d-fc12-4415-8ea4-f56cb2256c0f" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/rso/obschestvennaya_palata" >
+          Общественная палата
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:16757065-808c-473a-9dd0-f7ab0d316fd9" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="http://partizansk.org/rso/nko"  title="Некоммерческие организации">
+          Некоммерческие организации
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:d4b6d9d9-3a53-4c76-8e09-ee564a05acb4" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/rso/municipalnoe_avtonomnoe_uchrezhdenie_redakciya_gazety_vesti"  title="Муниципальное автономное учреждение &quot;Редакция газеты «Вести»&quot;">
+          Редакция газеты «Вести»
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega mega-align-right dropdown" data-id="menu_link_content:3d13a4f2-573c-4071-ac65-35c297bae295" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/fikogv"  class="dropdown-toggle" title="Органы местного самоуправления, федеральные и краевые органы государственной власти, действующие на территории Муниципального округа г. Партизанск" aria-expanded="false">
+          Органы власти
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="500" style="width: 500px;" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span6 mega-col-nav" data-class="" data-width="6" data-hidewcol="0" id="tb-megamenu-column-27">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-7" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:23a97535-b75f-4eb9-a0c8-ff1f0b6078db" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="http://duma.partizansk.org/"  title="Дума Муниципального округа г. Партизанск">
+          Дума МОГП
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:a7dfca89-c2a7-4004-a3c9-ef0c8e66d76e" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/tik"  title="Территориальная избирательная комиссия города Партизанска">
+          Избирательная комиссия
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:b217fd3a-9a03-42c0-818c-054459a458d0" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="http://ksp.partizansk.org/"  title="Контрольно-счётная палата Муниципального округа г. Партизанск">
+          Контрольно-счётная палата
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:6803eb52-dc89-419f-9407-e93508ff34b8" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="http://partizansky.prm.sudrf.ru/"  title="Партизанский городской суд">
+          Суд
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:6f9c6171-ff5e-4e64-9aab-ad72da3992cf" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/prokuratura_g_partizanska"  class="dropdown-toggle" title="Прокуратура города Партизанска" aria-expanded="false">
+          Прокуратура г. Партизанска
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-28">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-2" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:07b2bc4c-0758-4b49-bf34-7906ec4c8b2f" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/prokuratura_g_partizanska/protivodeystvie_ekstremizmu" >
+          Противодействие экстремизму
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:0d379f04-63cf-4aec-a91d-0bfcddcc44bf" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/prokuratura_g_partizanska/protivodeystvie_korrupcii" >
+          Противодействие коррупции
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:fdc92663-692d-4560-a689-1fe1e67c0ef9" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/19605_vladivostokskaya_mezhrayonnaya_prirodoohrannaya_prokuratura"  title="Владивостокская межрайонная природоохранная прокуратура">
+          Природоохранная прокуратура
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:09eb036c-1eff-4af6-8f1a-8ac7c28c3ab5" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/otdel_ministerstva_vnutrennih_del_rf_po_g_partizansku"  class="dropdown-toggle" title="Отдел Министерства внутренних дел РФ по г. Партизанску" aria-expanded="false">
+          ОМВД по г. Партизанску
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-29">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-1" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="menu_link_content:257d0c49-ad30-43eb-ad87-6319214f5531" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/fikogv/otdel_ministerstva_vnutrennih_del_rf_po_g_partizansku/informaciya_dlya_naseleniya" >
+          Информация для населения
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+      <div  class="tb-megamenu-column span6 mega-col-nav" data-class="" data-width="6" data-hidewcol="" id="tb-megamenu-column-30">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-6" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1fc885a1-417a-426f-ae41-c1a10b4d4667" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/rospotrbnadzor"  title="Территориальный отдел Управления Роспотребнадзора по Приморскому краю в г. Партизанске">
+          Роспотребнадзор
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:95d99b2b-ed8c-4c4c-ad61-89784413bdf1" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/MiFNS"  title="Межрайонная инспекция ФНС России № 16">
+          МИФНС № 16 по ПК
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:a30929da-280d-4532-bac1-44c4573535cf" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/pensionnyy_fond"  title="Отделение фонда пенсионного и социального страхования Российской Федерации по Приморскому краю">
+          Фонд пенсионного и социального страхования
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:e82f676f-5e45-441b-8dcc-a7ad076e524c" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/otdel_statistiki"  title="Отдел государственной статистики по Партизанскому городскому округа">
+          Отдел статистики
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:4b4c97bf-806b-4952-930e-05ed95e6d70a" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="https://profzan.primorsky.ru/Czn/Detail/?id=8439d66f-0a66-4425-9f24-d853b8c13bd4"  title="Центр занятости населения">
+          Отделение КГКУ &quot;ПЦЗН&quot; в г. Партизанске
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:1d7b0e61-f90e-47d1-b268-e902d61562b7" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/fikogv/upravlenie_rosreestra_po_primorskomu_krayu"  title="Управление Росреестра по Приморскому краю">
+          Росреестр
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega mega-align-right dropdown" data-id="menu_link_content:7abf280b-3020-43da-adf1-b93c413e5a00" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="right" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/news"  class="dropdown-toggle" title="Официальные новости Партизанского городского округа" aria-expanded="false">
+          Новости
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-31">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-1 items-6" role="list">
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:5de594ba-1cb0-4aa9-be53-e4f82b9f4117" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/anons" >
+          Анонсы
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:2f4802fa-8db7-49f8-818c-ed41158dc822" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/adverts"  title="Официальные объявления">
+          Объявления
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:878681ef-cc0c-4955-bb3c-3b6d13f43c50" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/public_listening" >
+          Публичные слушания
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:a5c24256-24ed-4869-bffd-8b2979edd591" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/polls"  title="Опросы">
+          Опросы
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega mega-group" data-id="menu_link_content:fe15bbb3-de0e-44ac-9a6e-dd4f383531fa" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="1" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/activity"  class="mega-group-title" aria-expanded="false">
+          Последние материалы
+          </a>
+  <div  class="tb-megamenu-submenu mega-group-ct nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-31">
+  <div class="tb-megamenu-column-inner mega-inner clearfix">
+               <ul  class="tb-megamenu-subnav mega-nav level-2 items-1" role="list">
+        <li  class="tb-megamenu-item level-3 mega" data-id="views_view:views.activity_advanced.page_1" data-level="3" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="3" >
+      <a href="/activity/advanced" >
+          Последние материалы (расширенное представление)
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="views_view:views.novosti_ot_primorsky_ru_feed.page_1" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/news/primorsky_ru"  title="Новости от primorsky.ru">
+          Новости от primorsky.ru
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+</div>
+
+  </div>
+
+      </div>
+</div>
+
+</li>
+
+        <li  class="tb-megamenu-item level-1 mega" data-id="menu_link_content:30dea0df-8f4b-464a-b75d-67c7965cbe51" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/socialsphere/svo"  title="Помощь участникам СВО и членам их семей">
+          СВО
+          </a>
+  
+</li>
+
+  </ul>
+
+      </div>
+  </div>
+
+  </div>
+
+  </div>
+
+        	  		    					</div>
+					<div style="align-items: center; width: 300px;">
+						<div class="d-flex flex-row justify-content-between" style="display: flex !important; flex-direction: row !important; justify-content: space-between !important; flex-wrap: nowrap !important; align-items: center !important; width: 220px;">
+															  <div class="region region-search">
+    <div class="search-block-form settings-tray-editable block block-search container-inline" data-drupal-selector="search-block-form" id="block-mogp-searchform" role="search" data-drupal-settingstray="editable">
+<div class=" d-flex flex-row justify-content-between">
+  
+    
+      <form action="/index.php/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Поиск</label>
+        <input title="Введите ключевые слова для поиска." data-drupal-selector="edit-keys" class="form-autocomplete form-search" data-key="search_block" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Поиск" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+</div>
+
+  </div>
+
+													</div>
+					</div>
+                </div>
+            </div>
+		</div>
+     </div>
+<!-- End: Menu -->
+    <section class="one">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 col-12">
+<!-- Start: Breadcrumb -->
+					                    	<div class="two-page-name">
+							  <div class="region region-breadcrumb">
+    <div id="block-mogp-breadcrumbs" class="settings-tray-editable block block-system block-system-breadcrumb-block" data-drupal-settingstray="editable">
+  
+    
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Строка навигации</h2>
+    <div class="two-page-name">
+          <div class="two-page-name-item">
+                  <a href="/">Главная</a>
+              </div>
+        </div>
+  </nav>
+
+  </div>
+<div id="block-mogp-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+                    <div class="two-block">
+                        <p class="two-title">Страница не найдена</p>
+					</div>
+
+
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+                    	</div>
+					<!-- End: Breadcrumb -->
+<!-- Start: Slider -->
+                    <!-- slider   -->						
+                                            <!-- slider -->
+<!-- End: Slider -->
+                    <!-- блок для адаптива -->
+                    	<div class="n-block">
+                        	<!-- Главные новости -->
+                        		                        	<!-- Главные новости -->
+                    	</div>
+                    <!-- блок для адаптива -->
+<!-- Start: Main Blocks -->				
+	<!-- End: Main Blocks -->
+<!-- Start: Anons and Public Blocks -->
+	<!-- End: Anons and Public Blocks -->
+<!-- Start: Poll Blocks -->
+	<!-- опросы -->
+			<!-- опросы -->
+<!-- End Anons and Public Blocks -->
+<!-- Start: News Prim Block -->
+	<!-- новости -->
+			<!-- новости -->
+<!-- End: News Prim Block -->
+<!-- Start: Main Content Block -->
+	<!-- инфо блок -->
+					<div class="info">
+				  <div class="region region-content">
+    <div id="block-mogp-content" class="block block-system block-system-main-block">
+  
+    
+      Запрашиваемая страница не найдена.
+  </div>
+
+  </div>
+
+			</div>
+			<!-- инфо блок -->
+<!-- End: Main Content Block -->
+                    <!-- организации для адаптива -->
+						                    <!-- организации для адаптива -->
+                	<!-- меню для адаптива -->
+													<div class="n-block" style="display: flex; flex-direction: column; flex-wrap: wrap;">
+                        		  <div class="region region-header-right">
+    <div id="block-mogp-glavnoemenyu-8" class="settings-tray-editable block block-superfish block-superfishmain" data-drupal-settingstray="editable">
+  
+    
+      
+<ul id="superfish-main" class="menu sf-menu sf-main sf-vertical sf-style-white right-list">
+  
+<li id="main-standardfront-page" class="sf-depth-1 right-list-item menuparent"><a href="/index.php/" class="sf-depth-1 title menuparent">Главная</a><ul><li id="main-menu-link-contentdf26d46b-3626-414c-962f-c580bab71ba1" class="sf-depth-2 right-list-item sf-no-children"><a href="http://mail.partizansk.org/" class="sf-depth-2 title sf-external">Электронная почта</a></li><li id="main-menu-link-content54901826-33c2-45db-9a2b-c950041e895f" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/fu/mestnye_nalogi" class="sf-depth-2 title">Местные налоги</a></li><li id="main-menu-link-contentb7bc2cbc-f5b5-43d5-87b1-1bfa2749198d" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/gragdanskaya_oborona" class="sf-depth-2 title">Гражданская оборона</a></li><li id="main-menu-link-content4e4d5efc-fce3-477a-bee4-3c6ad76470c7" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/autobus" title="Расписание движения городских автобусов" class="sf-depth-2 title">Расписание автобусов</a></li><li id="main-menu-link-content92f9cda0-668b-408d-ba4e-22fd1a094521" class="sf-depth-2 right-list-item sf-no-children"><a href="http://www.expresspk.ru/?c=rasp" title="Расписание движения пригородных электропоездов" class="sf-depth-2 title sf-external">Расписание электричек</a></li><li id="main-menu-link-content106dd87b-7a04-4504-8a5f-55038e756b0e" class="sf-depth-2 right-list-item sf-no-children"><a href="http://svod.partizansk.org" title="Отчётность бюджетополучателей" class="sf-depth-2 title sf-external">Свод-WEB</a></li></ul></li><li id="main-menu-link-content30e38fe3-046b-4bb7-a25e-df85f6243638" class="sf-depth-1 right-list-item menuparent"><a href="/index.php/information" title="Общие сведения о муниципальном округе город Партизанск Приморского края" class="sf-depth-1 title menuparent">Партизанск</a><ul><li id="main-menu-link-content6d59c7a1-db99-469b-997f-62611b41fb36" class="sf-depth-2 right-list-item menuparent"><a href="/index.php/information/geraldic" title="Герб, Флаг и Гимн муниципального округа город Партизанск Приморского края" class="sf-depth-2 title menuparent">Геральдика</a><ul><li id="main-menu-link-contentaecb859c-4f31-4fd4-89cb-b59d10a2843c" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/administration_na/mpa_n_29_ot_2008_05_30_1116201107_o_prinyatii_polozheniya_o_gerbe_partizanskogo" class="sf-depth-3 title">Решение Думы «О гербе Партизанского городского округа»</a></li></ul></li><li id="main-menu-link-content03907aef-061a-470a-892a-1515eda1eacc" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/information/history" title="Историческая справка о городе Партизанске" class="sf-depth-2 title">Историческая справка</a></li><li id="main-menu-link-content9ff4815c-7147-4150-9a33-d71fd2ad3319" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/pochet" class="sf-depth-2 title">Почётные жители</a></li><li id="main-menu-link-contentf4585be9-1e1b-47ee-86fa-337c74f8ae44" class="sf-depth-2 right-list-item menuparent"><a href="/index.php/information/fotogalereya" class="sf-depth-2 title menuparent">Фотогалерея</a><ul><li id="main-menu-link-content05e755db-a119-4ff0-9315-43ac3b2a68d1" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/information/fotogalereya/starye_fotografii_nashego_goroda" class="sf-depth-3 title">Старые фотографии нашего города</a></li><li id="main-menu-link-contentdb24e51b-51b3-49f8-bd9a-ce866768c14e" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/information/fotogalereya/starye_fotografii_nashego_goroda_prodolzhenie" class="sf-depth-3 title">Старые фотографии нашего города (продолжение)</a></li><li id="main-menu-link-content55fd1b1a-0715-4837-ae80-a2d392e4c4e6" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/information/fotogalereya/starye_fotografii_goroda" class="sf-depth-3 title">Старые фотографии города</a></li><li id="main-menu-link-content663b8ee3-2629-4b46-8418-8ba2a961961b" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/information/fotogalereya/stariy_i_noviy_partizansk" class="sf-depth-3 title">Старый и новый Партизанск</a></li><li id="main-menu-link-content42138c75-4a86-4c78-b020-8c2fc16f7e46" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/content/gallery/14046_suchanskie_kamennougolnye_kopi" class="sf-depth-3 title">Сучанские каменноугольные копи</a></li></ul></li><li id="main-menu-link-contente4ea7592-5f26-4ac3-9dc0-62b3e5d1cc74" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/information/kniga_partizansku_125_let_gorod_v_licakh_i_sudbakh" class="sf-depth-2 title">Книга «Партизанску 125 лет. Город в лицах и судьбах.»</a></li><li id="main-menu-link-content46b81987-ffe6-48f3-b9fd-8725045a2927" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/information/kniga_o_geologakh_s_pristrastiem" class="sf-depth-2 title">Книга «О геологах – с пристрастием»</a></li></ul></li><li id="main-menu-link-content7cee603f-8e51-4954-8492-7e1759f333c1" class="sf-depth-1 right-list-item menuparent"><a href="/index.php/administration/struktura/glava" title="Глава муниципального округа город Партизанск Приморского края" class="sf-depth-1 title menuparent">Глава МОГП</a><ul><li id="main-menu-link-content2e0b7e40-4b8a-4c29-acce-c3ad0f790ba8" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/glava/otchyoty_glavy" class="sf-depth-2 title">Отчёты главы</a></li><li id="main-menu-link-content57c6e296-c4ce-48c7-8ca4-eb985791c7af" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/struktura/1zam" title="Первый заместитель главы администрации муниципального округа город Партизанск Приморского края" class="sf-depth-2 title">Первый заместитель</a></li><li id="main-menu-link-content76a4fc93-a532-46a1-9fa0-dc9d9d88a16c" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/struktura/zamestiteli_glavy" title="Заместители главы администрации муниципального округа город Партизанск Приморского края" class="sf-depth-2 title">Заместители главы администрации</a></li><li id="main-views-viewviewsgpgpage-1" class="sf-depth-2 right-list-item menuparent"><a href="/index.php/gpg" title="График приёма граждан по личным вопросам" class="sf-depth-2 title menuparent">График приёма граждан</a><ul><li id="main-menu-link-content8a71a004-fdb8-419b-aa3c-4c6f795d9be0" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/noyabr_2025_g" class="sf-depth-3 title">ноябрь 2025 г.</a></li><li id="main-menu-link-content9476f7a5-ba91-44ea-9dd4-c6d32e922a50" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/oktyabr_2025_g" class="sf-depth-3 title">октябрь 2025 г.</a></li><li id="main-menu-link-contentfcb3803d-ef59-41ab-af16-7de86885d953" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/sentyabr_2025_g" class="sf-depth-3 title">сентябрь 2025 г.</a></li><li id="main-menu-link-content85e82d66-3866-4832-9330-709890d09a71" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/avgust_2025_g" class="sf-depth-3 title">август 2025 г.</a></li><li id="main-menu-link-content190bb644-4520-4114-847a-ed3ffe7852e8" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/iyul_2025_g" class="sf-depth-3 title">июль 2025 г.</a></li><li id="main-menu-link-content25d8b083-1235-4ecd-84df-465c2465bb9f" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/iyun_2025_g" class="sf-depth-3 title">июнь 2025 г.</a></li><li id="main-menu-link-contentb521c066-0fb0-4940-b3d0-ab1710ad26dc" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/may_2025_g" class="sf-depth-3 title">май 2025 г.</a></li><li id="main-menu-link-contenteff2d4c6-a02e-465b-acae-64ee2de37c7c" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/aprel_2025_g" class="sf-depth-3 title">апрель 2025 г.</a></li><li id="main-menu-link-content8ddc1633-6671-4cec-9f93-30c7b4bf9ba2" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/mart_2025_g" class="sf-depth-3 title">март 2025 г.</a></li><li id="main-menu-link-content92a0ceb7-dc64-43f0-9d3f-9217c6fc8a8e" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/fevral_2025_g" class="sf-depth-3 title">февраль 2025 г.</a></li><li id="main-menu-link-contentb9bd90b4-0bd1-4c0d-9260-7f0c9b4bcab9" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/gpg/yanvar_2025_g" class="sf-depth-3 title">январь 2025 г.</a></li></ul></li></ul></li><li id="main-menu-link-content63acec76-a758-4926-a406-ad41f87416bc" class="sf-depth-1 right-list-item menuparent"><a href="/index.php/administration" class="sf-depth-1 title menuparent">Администрация</a><ul><li id="main-menu-link-content78a53a92-a543-465d-bf66-4c2994ba540e" class="sf-depth-2 right-list-item menuparent"><a href="/index.php/administration/struktura" title="Структура администрации муниципального округа город Партизанск" class="sf-depth-2 title menuparent">Структура</a><ul><li id="main-menu-link-content758a9546-9480-4bbf-9c65-5b0b1ba0ec7c" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/administration/struktura/glava" title="Глава муниципального округа город Партизанск Приморского края" class="sf-depth-3 title">Глава МО г. Партизанск</a></li><li id="main-menu-link-contentb8646079-ac59-4001-9c90-412ed105dcd9" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/administration/struktura/1zam" title="Первый заместитель главы администрации муниципального округа город Партизанск Приморского края" class="sf-depth-3 title">Первый заместитель главы</a></li><li id="main-menu-link-contentaf330635-355b-4a11-bbd0-25f25cacc1f3" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/administration/struktura/zamestiteli_glavy" title="Заместители главы администрации муниципального округа город Партизанск Приморского края" class="sf-depth-3 title">Заместители главы администрации</a></li><li id="main-menu-link-content575378c5-4b7e-4808-8c7d-a56e8f39cd89" class="sf-depth-3 right-list-item menuparent"><a href="/index.php/administration/struktura/upravleniya" class="sf-depth-3 title menuparent">Управления</a><ul><li id="main-menu-link-content9cadbd12-5330-4efc-a0c0-746099adf9ab" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ubuio" title="Управление бухгалтерского учёта и отчётности" class="sf-depth-4 title">Управление бухгалтерского учёта</a></li><li id="main-menu-link-contentc9103485-dbf1-44a0-9750-a5523499ce06" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/fu" title="Финансовое управление администрации муниципального округа город Партизанск" class="sf-depth-4 title">Финансовое управление</a></li><li id="main-menu-link-content7084fdc5-54d9-4217-8eb1-45be70f01575" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/uptiokr" title="Управление по территориальной и организационно-контрольной работе" class="sf-depth-4 title">Управление по организационно-контрольной работе</a></li><li id="main-menu-link-content7c20e8cc-35c1-44ec-8148-c686844ab210" class="sf-depth-4 right-list-item menuparent"><a href="/index.php/administration/struktura/upravleniya/ueis" class="sf-depth-4 title menuparent">Управление экономики и собственности</a><ul><li id="main-menu-link-content64591822-ecc1-4516-80c6-3b9c0273a1fd" class="sf-depth-5 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ueis/ob_upravlenii" class="sf-depth-5 title">Об управлении экономики и собственности</a></li><li id="main-menu-link-contentd2040ce6-fa71-45f6-b854-7c76106d3332" class="sf-depth-5 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ueis/otdel_ekonomiki" class="sf-depth-5 title">Отдел экономики</a></li><li id="main-menu-link-content2b4817ba-02db-4fd7-b6a7-d9e4a1b49653" class="sf-depth-5 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ueis/torg" title="Специалисты по вопросам потребительского рынка" class="sf-depth-5 title">Специалисты по вопросам потребительского рынка</a></li><li id="main-menu-link-contentd1ca140a-54cd-4779-bca1-2f788cf15985" class="sf-depth-5 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ueis/oio" class="sf-depth-5 title">Отдел имущественных отношений</a></li><li id="main-menu-link-content402d4ffd-d9b6-457e-b9e2-5257285a310e" class="sf-depth-5 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ueis/otr" class="sf-depth-5 title">Отдел территриального развития</a></li><li id="main-menu-link-content496d1513-4183-40f8-a7f7-b00cca791485" class="sf-depth-5 right-list-item menuparent"><a href="/index.php/administration/struktura/upravleniya/ueis/oapkioos" title="Отдел агропромышленного комплекса и охраны окружающей среды" class="sf-depth-5 title menuparent">Отдел АПКиООС</a><ul><li id="main-menu-link-contentc9446dca-aaa0-4881-8f09-047c664e336d" class="sf-depth-6 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ueis/oapkioos/ob_otdele" title="Об отделе агропромышленного комплекса и охраны окружающей среды" class="sf-depth-6 title">Об отделе</a></li></ul></li><li id="main-menu-link-content7f5a492d-9383-4715-b597-a2676233938d" class="sf-depth-5 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ueis/opupg" class="sf-depth-5 title">Отдел по учёту и переселению граждан</a></li></ul></li><li id="main-menu-link-content3f1253e5-9778-4eb4-b0f3-25fea5a42c2c" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/uobr" title="Управление образования администрации Партизанского муниципального округа г. Партизанск Приморского края" class="sf-depth-4 title">Управление образования</a></li><li id="main-menu-link-contenta2c8d4c9-66d1-483d-ba19-e434ebb19c1f" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/gkk" title="Управление жилищно-коммунального комплекса" class="sf-depth-4 title">Управление ЖКК</a></li><li id="main-menu-link-content35127b1e-57a3-4712-93b7-eef67708eeb0" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/upravleniya/ahu" class="sf-depth-4 title">Административно-хозяйственное управление</a></li></ul></li><li id="main-menu-link-contenta8d83208-1044-4b31-97e5-063933a9c162" class="sf-depth-3 right-list-item menuparent"><a href="/index.php/administration/struktura/otdely" class="sf-depth-3 title menuparent">Отделы</a><ul><li id="main-menu-link-content24c20ced-1bb4-4705-ac1e-eb4f586f9447" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/kro" class="sf-depth-4 title">Контрольно-ревизионный отдел</a></li><li id="main-menu-link-contentf7fca4e8-42b0-4a8b-bc8d-4002da27b6b1" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/otdel_zags" title="Отдел записи актов гражданского состояния" class="sf-depth-4 title">Отдел ЗАГС</a></li><li id="main-menu-link-content43eebd0c-052a-4fe7-9a31-957d380177e6" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/ok" title="Отдел культуры и молодёжной политики" class="sf-depth-4 title">Отдел культуры</a></li><li id="main-menu-link-contentdca31a3f-293e-4c47-9e7d-80384cdd7f81" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/omsik" class="sf-depth-4 title">Отдел муниципальной службы и кадров</a></li><li id="main-menu-link-content4e4bec8b-29d5-4d42-be90-24038b614d15" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/otdel_po_zakupkam" class="sf-depth-4 title">Отдел по закупкам</a></li><li id="main-menu-link-content23c821a3-e6fa-4c94-86fd-609eca146ba1" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/otdel_po_mob_rabote" class="sf-depth-4 title">Отдел по мобилизационной работе</a></li><li id="main-menu-link-content912497ab-a3be-4362-8ca3-d8b3e368f4de" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/otdel_ovfa" class="sf-depth-4 title">Отдел по осуществлению внутреннего финансового аудита</a></li><li id="main-menu-link-contentbf773835-d290-4c78-ba99-8d2909bcc31a" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/jurotdel" class="sf-depth-4 title">Отдел правового обеспечения</a></li><li id="main-menu-link-content37726a07-9518-446b-ae62-6614c6bd9d55" class="sf-depth-4 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/sport" class="sf-depth-4 title">Отдел физической культуры и спорта</a></li></ul></li><li id="main-menu-link-content794ca6c2-bf55-4624-864f-5dc61299fb02" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/administration/struktura/archive" title="Муниципальный архив муниципального округа город Партизанск" class="sf-depth-3 title">Муниципальный архив</a></li></ul></li><li id="main-views-viewviewsdepartmentpage-1" class="sf-depth-2 right-list-item menuparent"><a href="/index.php/phone" title="Телефонный справочник администрации муниципального округа город Партизанск" class="sf-depth-2 title menuparent">✆ Телефонный справочник</a><ul></ul></li><li id="main-menu-link-content8837ee90-7b3d-4921-9d4c-27734e6f7931" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/grafik_raboty_administracii_municipalnogo_okruga_gorod_partizansk" title="График работы администрации муниципального округа город Партизанск" class="sf-depth-2 title">График работы</a></li><li id="main-menu-link-content066b6075-398d-44b7-b61d-a0e47b067434" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/plan_raboty_amogp" title="План работы администрации муниципального округа город Партизанск" class="sf-depth-2 title">План работы администрации</a></li><li id="main-menu-link-contentdebebd62-a069-42e6-afdc-4adbde0e3c7b" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba" class="sf-depth-2 title">Муниципальная служба</a></li><li id="main-menu-link-content3ae0020a-0832-4121-a709-5a526901f02b" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/okhrana_truda" class="sf-depth-2 title">Охрана труда</a></li><li id="main-menu-link-contentc3206764-fa96-4ab5-947c-1169358e7ed4" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/otdel_po_osuschestvleniyu_gosudarstvennykh_polnomochiy_po_ispolneniyu_administrativnogo" title="Отдел по осуществлению государственных полномочий по исполнению административного законодательства" class="sf-depth-2 title">Административная комиссия</a></li><li id="main-menu-link-contentc47255ef-0811-452a-bf42-f7a9e272f58c" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/kdn" class="sf-depth-2 title">Комиссия по делам несовершеннолетних</a></li><li id="main-menu-link-content57854d43-b265-44c6-a897-63952f6a7ad5" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/informaciya_o_proverkakh" class="sf-depth-2 title">Информация о проверках</a></li><li id="main-menu-link-content1a80f9ee-5f9f-4bfb-ba03-77cec43f1dda" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/perechni_informacionnykh_sistem_bankov_dannykh_reestrov_registrov_nakhodyaschikhsya" title="Перечни информационных систем, банков данных, реестров, регистров, находящихся в ведении органов местного самоуправления" class="sf-depth-2 title">Перечни информационных систем</a></li><li id="main-menu-link-contentd40219c2-df6b-40e8-8d62-da1440a53564" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/svedeniya_o_sredstvakh_massovoy_informacii_uchrezhdennykh_organami_mestnogo" title="Сведения о средствах массовой информации, учрежденных органами местного самоуправления" class="sf-depth-2 title">Средства массовой информации</a></li><li id="main-menu-link-content17ee782e-340a-476c-8c52-7c9459128849" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/antiterror" class="sf-depth-2 title">Антитеррористическая деятельность</a></li><li id="main-menu-link-content603c2348-366c-49fb-bcf5-707e14ba4eaf" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/administration/struktura/otdely/omsik/municipalnaya_sluzhba/protivodeystvie_korrupcii/nezavisimaya" class="sf-depth-2 title">Независимая антикоррупционная экспертиза</a></li></ul></li><li id="main-menu-link-contente5892639-3232-40f7-8d00-566de625b3df" class="sf-depth-1 right-list-item sf-no-children"><a href="/index.php/contact" class="sf-depth-1 title">Приёмная</a></li><li id="main-menu-link-content3d13a4f2-573c-4071-ac65-35c297bae295" class="sf-depth-1 right-list-item menuparent"><a href="/index.php/fikogv" title="Органы местного самоуправления, федеральные и краевые органы государственной власти, действующие на территории Муниципального округа г. Партизанск" class="sf-depth-1 title menuparent">Органы власти</a><ul><li id="main-menu-link-content23a97535-b75f-4eb9-a0c8-ff1f0b6078db" class="sf-depth-2 right-list-item sf-no-children"><a href="http://duma.partizansk.org/" title="Дума Муниципального округа г. Партизанск" class="sf-depth-2 title sf-external">Дума МОГП</a></li><li id="main-menu-link-contenta7dfca89-c2a7-4004-a3c9-ef0c8e66d76e" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/fikogv/tik" title="Территориальная избирательная комиссия города Партизанска" class="sf-depth-2 title">Избирательная комиссия</a></li><li id="main-menu-link-contentb217fd3a-9a03-42c0-818c-054459a458d0" class="sf-depth-2 right-list-item sf-no-children"><a href="http://ksp.partizansk.org/" title="Контрольно-счётная палата Муниципального округа г. Партизанск" class="sf-depth-2 title sf-external">Контрольно-счётная палата</a></li><li id="main-menu-link-content6803eb52-dc89-419f-9407-e93508ff34b8" class="sf-depth-2 right-list-item sf-no-children"><a href="http://partizansky.prm.sudrf.ru/" title="Партизанский городской суд" class="sf-depth-2 title sf-external">Суд</a></li><li id="main-menu-link-content6f9c6171-ff5e-4e64-9aab-ad72da3992cf" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/fikogv/prokuratura_g_partizanska" title="Прокуратура города Партизанска" class="sf-depth-2 title">Прокуратура г. Партизанска</a></li><li id="main-menu-link-contentfdc92663-692d-4560-a689-1fe1e67c0ef9" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/19605_vladivostokskaya_mezhrayonnaya_prirodoohrannaya_prokuratura" title="Владивостокская межрайонная природоохранная прокуратура" class="sf-depth-2 title">Природоохранная прокуратура</a></li><li id="main-menu-link-content09eb036c-1eff-4af6-8f1a-8ac7c28c3ab5" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/fikogv/otdel_ministerstva_vnutrennih_del_rf_po_g_partizansku" title="Отдел Министерства внутренних дел РФ по г. Партизанску" class="sf-depth-2 title">ОМВД по г. Партизанску</a></li><li id="main-menu-link-content1fc885a1-417a-426f-ae41-c1a10b4d4667" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/fikogv/rospotrbnadzor" title="Территориальный отдел Управления Роспотребнадзора по Приморскому краю в г. Партизанске" class="sf-depth-2 title">Роспотребнадзор</a></li><li id="main-menu-link-content95d99b2b-ed8c-4c4c-ad61-89784413bdf1" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/fikogv/MiFNS" title="Межрайонная инспекция ФНС России № 16" class="sf-depth-2 title">МИФНС № 16 по ПК</a></li><li id="main-menu-link-contenta30929da-280d-4532-bac1-44c4573535cf" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/fikogv/pensionnyy_fond" title="Отделение фонда пенсионного и социального страхования Российской Федерации по Приморскому краю" class="sf-depth-2 title">Фонд пенсионного и социального страхования</a></li><li id="main-menu-link-contente82f676f-5e45-441b-8dcc-a7ad076e524c" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/fikogv/otdel_statistiki" title="Отдел государственной статистики по Партизанскому городскому округа" class="sf-depth-2 title">Отдел статистики</a></li><li id="main-menu-link-content4b4c97bf-806b-4952-930e-05ed95e6d70a" class="sf-depth-2 right-list-item sf-no-children"><a href="https://profzan.primorsky.ru/Czn/Detail/?id=8439d66f-0a66-4425-9f24-d853b8c13bd4" title="Центр занятости населения" class="sf-depth-2 title sf-external">Отделение КГКУ &quot;ПЦЗН&quot; в г. Партизанске</a></li><li id="main-menu-link-content1d7b0e61-f90e-47d1-b268-e902d61562b7" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/fikogv/upravlenie_rosreestra_po_primorskomu_krayu" title="Управление Росреестра по Приморскому краю" class="sf-depth-2 title">Росреестр</a></li></ul></li><li id="main-menu-link-content7abf280b-3020-43da-adf1-b93c413e5a00" class="sf-depth-1 right-list-item menuparent"><a href="/index.php/news" title="Официальные новости Партизанского городского округа" class="sf-depth-1 title menuparent">Новости</a><ul><li id="main-menu-link-content5de594ba-1cb0-4aa9-be53-e4f82b9f4117" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/anons" class="sf-depth-2 title">Анонсы</a></li><li id="main-menu-link-content2f4802fa-8db7-49f8-818c-ed41158dc822" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/adverts" title="Официальные объявления" class="sf-depth-2 title">Объявления</a></li><li id="main-menu-link-content878681ef-cc0c-4955-bb3c-3b6d13f43c50" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/public_listening" class="sf-depth-2 title">Публичные слушания</a></li><li id="main-menu-link-contenta5c24256-24ed-4869-bffd-8b2979edd591" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/polls" title="Опросы" class="sf-depth-2 title">Опросы</a></li><li id="main-menu-link-contentfe15bbb3-de0e-44ac-9a6e-dd4f383531fa" class="sf-depth-2 right-list-item menuparent"><a href="/index.php/activity" class="sf-depth-2 title menuparent">Последние материалы</a><ul><li id="main-views-viewviewsactivity-advancedpage-1" class="sf-depth-3 right-list-item sf-no-children"><a href="/index.php/activity/advanced" class="sf-depth-3 title">Последние материалы (расширенное представление)</a></li></ul></li><li id="main-views-viewviewsnovosti-ot-primorsky-ru-feedpage-1" class="sf-depth-2 right-list-item sf-no-children"><a href="/index.php/news/primorsky_ru" title="Новости от primorsky.ru" class="sf-depth-2 title">Новости от primorsky.ru</a></li></ul></li><li id="main-menu-link-content30dea0df-8f4b-464a-b75d-67c7965cbe51" class="sf-depth-1 right-list-item sf-no-children"><a href="/index.php/socialsphere/svo" title="Помощь участникам СВО и членам их семей" class="sf-depth-1 title">СВО</a></li>
+</ul>
+
+  </div>
+
+  </div>
+
+								  <div class="region region-sidebar-first-menu">
+    <div id="block-mogp-useraccountmenu" class="settings-tray-editable block block-superfish block-superfishaccount" data-drupal-settingstray="editable">
+  
+    
+      
+<ul id="superfish-account" class="menu sf-menu sf-account sf-vertical sf-style-white right-list">
+  
+<li id="account-userlogout" class="sf-depth-1 right-list-item sf-no-children"><a href="/index.php/user/login" class="sf-depth-1 title">Войти</a></li>
+</ul>
+
+  </div>
+<div id="block-mogp-vkhodnasayt-4" class="settings-tray-editable block block-user block-user-login-block" data-drupal-settingstray="editable" role="form">
+  
+    
+      <form class="user-login-form pwd-see" data-drupal-selector="user-login-form" action="/system/404?destination=/" method="post" id="user-login-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name" class="js-form-required form-required">Email или логин</label>
+        <input autocorrect="none" autocapitalize="none" spellcheck="false" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="15" maxlength="254" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-password form-type-password js-form-item-pass form-item-pass">
+      <label for="edit-pass" class="js-form-required form-required">Пароль</label>
+        <input data-drupal-selector="edit-pass" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-uq5reppwvcdncvwzddgv3iqskgwygururrcevlh93fk" type="hidden" name="form_build_id" value="form-uQ5RePPWVCdNcvWzDdGV3iQSKGwyguruRRCEvLH93Fk" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-persistent-login form-item-persistent-login">
+        <input data-drupal-selector="edit-persistent-login" type="checkbox" id="edit-persistent-login" name="persistent_login" value="1" class="form-checkbox" />
+
+        <label for="edit-persistent-login" class="option">Запомнить меня</label>
+      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Войти" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+<div class="item-list"><ul><li><a href="/index.php/user/register" title="Создать новую учётную запись пользователя." class="create-account-link">Регистрация</a></li><li><a href="/index.php/user/password" title="Отправить инструкции по сбросу пароля на электронную почту." class="request-password-link">Восстановить пароль</a></li></ul></div>
+  </div>
+
+  </div>
+
+							</div>
+						            	    <!-- меню для адаптива -->
+                </div>
+<!-- Start: Sidebar -->
+                <div class="col-lg-3 col-12 n-none">
+					                <!-- новости -->
+				<!-- организации -->
+					                <!-- организации -->
+                <!-- меню -->
+											  <div class="region region-sidebar-first-menu">
+    <div id="block-mogp-useraccountmenu" class="settings-tray-editable block block-superfish block-superfishaccount" data-drupal-settingstray="editable">
+  
+    
+      
+<ul id="superfish-account" class="menu sf-menu sf-account sf-vertical sf-style-white right-list">
+  
+<li id="account-userlogout" class="sf-depth-1 right-list-item sf-no-children"><a href="/index.php/user/login" class="sf-depth-1 title">Войти</a></li>
+</ul>
+
+  </div>
+<div id="block-mogp-vkhodnasayt-4" class="settings-tray-editable block block-user block-user-login-block" data-drupal-settingstray="editable" role="form">
+  
+    
+      <form class="user-login-form pwd-see" data-drupal-selector="user-login-form" action="/system/404?destination=/" method="post" id="user-login-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name" class="js-form-required form-required">Email или логин</label>
+        <input autocorrect="none" autocapitalize="none" spellcheck="false" data-drupal-selector="edit-name" type="text" id="edit-name" name="name" value="" size="15" maxlength="254" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<div class="js-form-item form-item js-form-type-password form-type-password js-form-item-pass form-item-pass">
+      <label for="edit-pass" class="js-form-required form-required">Пароль</label>
+        <input data-drupal-selector="edit-pass" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" required="required" aria-required="true" />
+
+        </div>
+<input autocomplete="off" data-drupal-selector="form-uq5reppwvcdncvwzddgv3iqskgwygururrcevlh93fk" type="hidden" name="form_build_id" value="form-uQ5RePPWVCdNcvWzDdGV3iQSKGwyguruRRCEvLH93Fk" />
+<input data-drupal-selector="edit-user-login-form" type="hidden" name="form_id" value="user_login_form" />
+<div class="js-form-item form-item js-form-type-checkbox form-type-checkbox js-form-item-persistent-login form-item-persistent-login">
+        <input data-drupal-selector="edit-persistent-login" type="checkbox" id="edit-persistent-login" name="persistent_login" value="1" class="form-checkbox" />
+
+        <label for="edit-persistent-login" class="option">Запомнить меня</label>
+      </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" name="op" value="Войти" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+<div class="item-list"><ul><li><a href="/index.php/user/register" title="Создать новую учётную запись пользователя." class="create-account-link">Регистрация</a></li><li><a href="/index.php/user/password" title="Отправить инструкции по сбросу пароля на электронную почту." class="request-password-link">Восстановить пароль</a></li></ul></div>
+  </div>
+
+  </div>
+
+					                <!-- меню -->
+				<!-- счётчик -->
+				<span id="sputnik-informer"></span>
+<script type="text/javascript">
+       (function(d, t, p) {
+           var j = d.createElement(t); j.async = true; j.type = "text/javascript";
+           j.src = ("https:" == p ? "https:" : "http:") + "//stat.sputnik.ru/cnt.js";
+           var s = d.getElementsByTagName(t)[0]; s.parentNode.insertBefore(j, s);
+       })(document, "script", document.location.protocol);
+    </script>
+				<!-- счётчик -->
+                </div>
+            </div>
+        </div>
+    </section>
+<!-- End: Sidebar -->
+<!-- Start: Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-7 col-12">
+				    <!-- copy -->
+													  <div class="region region-sidebar-first-adaptive">
+    <div id="block-mogp-kopirayty" class="settings-tray-editable block block-block-content block-block-content0a4fc982-12ec-47b0-9544-be6737616d25" data-drupal-settingstray="editable">
+  
+    
+      
+            <div class="clearfix text-formatted field field--name-body field--type-text-with-summary field--label-hidden field__item"><div class="f-one">
+	<p class="f-one-title">
+		Информационный сайт создан и поддерживается администрацией<br>муниципального округа город Партизанск. <br>
+		При использовании информации сайта — активная ссылка обязательна.
+	</p>
+<p class="f-one-title">Это новая версия сайта.<br />
+Вся информация, размещённая до 15.02.2021 г. доступна <a class="f-link" href="https://web-arhive.ru/page?url=http://www.partizansk.org/&amp;date=20191219"><span>в архиве</span></a></p>
+	<div class="row">
+		<div class="col-md-5">
+			<p class="f-one-text">
+				Открытие проекта: 25 марта 2005 г. <br>
+				Copyright © 2005–2025			</p>
+			<p class="f-one-text">
+				<br>Дизайн: <a href="https://netsmart.ru/" class="f-link"><span>NETSMART</span></a>
+			</p>
+		</div>
+		<div class="col-md-7">
+			<span class="f-one-text">Коментарии, пожелания -</span>
+			<a href="mailto:webmaster@partizansk.org.ru" class="f-link">
+				<span>✉&nbsp;webmaster@partizansk.org.ru</span>
+			</a> <br>
+			<a href="/phone" class="f-link">
+				<span>Контактная информация </span>
+			</a> <br>
+			<a href="/about_site" class="f-link">
+				<span>О сайте</span>
+			</a> <br>
+			<a href="/contact" class="f-link">
+				<span>Обратная связь</span>
+			</a>
+		</div>
+	</div>
+</div></div>
+      
+  </div>
+
+  </div>
+
+										    <!-- copy -->
+                                    </div>
+                <div class="col-lg-5 col-12">
+                    <div class="f-soc">
+
+                        <a aria-label="Официальная страница администрации муниципального округа город Партизанск в социальной сети ВКонтакте" href="https://vk.com/partizansk.town.county" title="Официальная страница администрации муниципального округа город Партизанск в социальной сети ВКонтакте" target="_blank" class="f-soc-item">
+                            <img src="/themes/pgo/img/f-four.png" alt="Официальная страница администрации муниципального округа город Партизанск в социальной сети ВКонтакте">
+                        </a>
+                        <a aria-label="Официальная страница администрации муниципального округа город Партизанск в социальной сети Одноклассники" href="https://ok.ru/partizansk.town.county" title="Официальная страница администрации муниципального округа город Партизанск в социальной сети Одноклассники" target="_blank" class="f-soc-item">
+                            <img src="/themes/pgo/img/f-five.png" alt="Официальная страница администрации муниципального округа город Партизанск в социальной сети Одноклассники">
+                        </a>
+                        <a aria-label="Официальный канал администрации муниципального округа город Партизанск в Telegram" href="https://t.me/partizansk_admin" title="Официальный канал администрации муниципального округа город Партизанск в Telegram" target="_blank" class="f-soc-item">
+                            <img src="/themes/pgo/img/f-six.png" alt="Официальный канал администрации муниципального округа город Партизанск в Telegram">
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+<!-- End: Footer -->
+  </div>
+
+    <div class="off-canvas-wrapper"><div id="off-canvas">
+              <ul>
+                    <li class="menu-item--front-page menu-name--main">
+        <a href="/index.php/" data-drupal-link-system-path="&lt;front&gt;">Главная</a>
+                                <ul>
+                    <li class="menu-item--df26d46b-3626-414c-962f-c580bab71ba1 menu-name--main">
+        <a href="http://mail.partizansk.org/">Электронная почта</a>
+              </li>
+                <li class="menu-item--_4901826-33c2-45db-9a2b-c950041e895f menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/fu/mestnye_nalogi" data-drupal-link-system-path="node/390">Местные налоги</a>
+              </li>
+                <li class="menu-item--b7bc2cbc-f5b5-43d5-87b1-1bfa2749198d menu-name--main">
+        <a href="/index.php/gragdanskaya_oborona" data-drupal-link-system-path="node/14">Гражданская оборона</a>
+              </li>
+                <li class="menu-item--_e4d5efc-fce3-477a-bee4-3c6ad76470c7 menu-name--main">
+        <a href="/index.php/autobus" title="Расписание движения городских автобусов" data-drupal-link-system-path="node/85">Расписание автобусов</a>
+              </li>
+                <li class="menu-item--_2f9cda0-668b-408d-ba4e-22fd1a094521 menu-name--main">
+        <a href="http://www.expresspk.ru/?c=rasp" title="Расписание движения пригородных электропоездов">Расписание электричек</a>
+              </li>
+                <li class="menu-item--_06dd87b-7a04-4504-8a5f-55038e756b0e menu-name--main">
+        <a href="http://svod.partizansk.org" title="Отчётность бюджетополучателей">Свод-WEB</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_0e38fe3-046b-4bb7-a25e-df85f6243638 menu-name--main">
+        <a href="/index.php/information" title="Общие сведения о муниципальном округе город Партизанск Приморского края" data-drupal-link-system-path="node/86">Партизанск</a>
+                                <ul>
+                    <li class="menu-item--_d59c7a1-db99-469b-997f-62611b41fb36 menu-name--main">
+        <a href="/index.php/information/geraldic" title="Герб, Флаг и Гимн муниципального округа город Партизанск Приморского края" data-drupal-link-system-path="node/92">Геральдика</a>
+                                <ul>
+                    <li class="menu-item--aecb859c-4f31-4fd4-89cb-b59d10a2843c menu-name--main">
+        <a href="/index.php/administration_na/mpa_n_29_ot_2008_05_30_1116201107_o_prinyatii_polozheniya_o_gerbe_partizanskogo" data-drupal-link-system-path="node/93">Решение Думы «О гербе Партизанского городского округа»</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_3907aef-061a-470a-892a-1515eda1eacc menu-name--main">
+        <a href="/index.php/information/history" title="Историческая справка о городе Партизанске" data-drupal-link-system-path="node/94">Историческая справка</a>
+              </li>
+                <li class="menu-item--_ff4815c-7147-4150-9a33-d71fd2ad3319 menu-name--main">
+        <a href="/index.php/pochet" data-drupal-link-system-path="node/87">Почётные жители</a>
+              </li>
+                <li class="menu-item--f4585be9-1e1b-47ee-86fa-337c74f8ae44 menu-name--main">
+        <a href="/index.php/information/fotogalereya" data-drupal-link-system-path="node/95">Фотогалерея</a>
+                                <ul>
+                    <li class="menu-item--_5e755db-a119-4ff0-9315-43ac3b2a68d1 menu-name--main">
+        <a href="/index.php/information/fotogalereya/starye_fotografii_nashego_goroda" data-drupal-link-system-path="node/6697">Старые фотографии нашего города</a>
+              </li>
+                <li class="menu-item--db24e51b-51b3-49f8-bd9a-ce866768c14e menu-name--main">
+        <a href="/index.php/information/fotogalereya/starye_fotografii_nashego_goroda_prodolzhenie" data-drupal-link-system-path="node/6706">Старые фотографии нашего города (продолжение)</a>
+              </li>
+                <li class="menu-item--_5fd1b1a-0715-4837-ae80-a2d392e4c4e6 menu-name--main">
+        <a href="/index.php/information/fotogalereya/starye_fotografii_goroda" data-drupal-link-system-path="node/6708">Старые фотографии города</a>
+              </li>
+                <li class="menu-item--_63b8ee3-2629-4b46-8418-8ba2a961961b menu-name--main">
+        <a href="/index.php/information/fotogalereya/stariy_i_noviy_partizansk" data-drupal-link-system-path="node/6707">Старый и новый Партизанск</a>
+              </li>
+                <li class="menu-item--_2138c75-4a86-4c78-b020-8c2fc16f7e46 menu-name--main">
+        <a href="/index.php/content/gallery/14046_suchanskie_kamennougolnye_kopi" data-drupal-link-system-path="node/6709">Сучанские каменноугольные копи</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--e4ea7592-5f26-4ac3-9dc0-62b3e5d1cc74 menu-name--main">
+        <a href="/index.php/information/kniga_partizansku_125_let_gorod_v_licakh_i_sudbakh" data-drupal-link-system-path="node/6696">Книга «Партизанску 125 лет. Город в лицах и судьбах.»</a>
+              </li>
+                <li class="menu-item--_6b81987-ffe6-48f3-b9fd-8725045a2927 menu-name--main">
+        <a href="/index.php/information/kniga_o_geologakh_s_pristrastiem" data-drupal-link-system-path="node/8488">Книга «О геологах – с пристрастием»</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_cee603f-8e51-4954-8492-7e1759f333c1 menu-name--main">
+        <a href="/index.php/administration/struktura/glava" title="Глава муниципального округа город Партизанск Приморского края" data-drupal-link-system-path="node/333">Глава МОГП</a>
+                                <ul>
+                    <li class="menu-item--_e0b7e40-4b8a-4c29-acce-c3ad0f790ba8 menu-name--main">
+        <a href="/index.php/glava/otchyoty_glavy" data-drupal-link-system-path="node/6513">Отчёты главы</a>
+              </li>
+                <li class="menu-item--_7c6e296-c4ce-48c7-8ca4-eb985791c7af menu-name--main">
+        <a href="/index.php/administration/struktura/1zam" title="Первый заместитель главы администрации муниципального округа город Партизанск Приморского края" data-drupal-link-system-path="node/334">Первый заместитель</a>
+              </li>
+                <li class="menu-item--_6a4fc93-a532-46a1-9fa0-dc9d9d88a16c menu-name--main">
+        <a href="/index.php/administration/struktura/zamestiteli_glavy" title="Заместители главы администрации муниципального округа город Партизанск Приморского края" data-drupal-link-system-path="node/335">Заместители главы администрации</a>
+              </li>
+                <li class="menu-item--viewsgpgpage-1 menu-name--main">
+        <a href="/index.php/gpg" title="График приёма граждан по личным вопросам" data-drupal-link-system-path="gpg">График приёма граждан</a>
+                                <ul>
+                    <li class="menu-item--_a71a004-fdb8-419b-aa3c-4c6f795d9be0 menu-name--main">
+        <a href="/index.php/gpg/noyabr_2025_g" data-drupal-link-system-path="node/17294">ноябрь 2025 г.</a>
+              </li>
+                <li class="menu-item--_476f7a5-ba91-44ea-9dd4-c6d32e922a50 menu-name--main">
+        <a href="/index.php/gpg/oktyabr_2025_g" data-drupal-link-system-path="node/17005">октябрь 2025 г.</a>
+              </li>
+                <li class="menu-item--fcb3803d-ef59-41ab-af16-7de86885d953 menu-name--main">
+        <a href="/index.php/gpg/sentyabr_2025_g" data-drupal-link-system-path="node/17004">сентябрь 2025 г.</a>
+              </li>
+                <li class="menu-item--_5e82d66-3866-4832-9330-709890d09a71 menu-name--main">
+        <a href="/index.php/gpg/avgust_2025_g" data-drupal-link-system-path="node/16908">август 2025 г.</a>
+              </li>
+                <li class="menu-item--_90bb644-4520-4114-847a-ed3ffe7852e8 menu-name--main">
+        <a href="/index.php/gpg/iyul_2025_g" data-drupal-link-system-path="node/16816">июль 2025 г.</a>
+              </li>
+                <li class="menu-item--_5d8b083-1235-4ecd-84df-465c2465bb9f menu-name--main">
+        <a href="/index.php/gpg/iyun_2025_g" data-drupal-link-system-path="node/16711">июнь 2025 г.</a>
+              </li>
+                <li class="menu-item--b521c066-0fb0-4940-b3d0-ab1710ad26dc menu-name--main">
+        <a href="/index.php/gpg/may_2025_g" data-drupal-link-system-path="node/16713">май 2025 г.</a>
+              </li>
+                <li class="menu-item--eff2d4c6-a02e-465b-acae-64ee2de37c7c menu-name--main">
+        <a href="/index.php/gpg/aprel_2025_g" data-drupal-link-system-path="node/16714">апрель 2025 г.</a>
+              </li>
+                <li class="menu-item--_ddc1633-6671-4cec-9f93-30c7b4bf9ba2 menu-name--main">
+        <a href="/index.php/gpg/mart_2025_g" data-drupal-link-system-path="node/16715">март 2025 г.</a>
+              </li>
+                <li class="menu-item--_2a0ceb7-dc64-43f0-9d3f-9217c6fc8a8e menu-name--main">
+        <a href="/index.php/gpg/fevral_2025_g" data-drupal-link-system-path="node/16716">февраль 2025 г.</a>
+              </li>
+                <li class="menu-item--b9bd90b4-0bd1-4c0d-9260-7f0c9b4bcab9 menu-name--main">
+        <a href="/index.php/gpg/yanvar_2025_g" data-drupal-link-system-path="node/16717">январь 2025 г.</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_3acec76-a758-4926-a406-ad41f87416bc menu-name--main">
+        <a href="/index.php/administration" data-drupal-link-system-path="node/100">Администрация</a>
+                                <ul>
+                    <li class="menu-item--_8a53a92-a543-465d-bf66-4c2994ba540e menu-name--main">
+        <a href="/index.php/administration/struktura" title="Структура администрации муниципального округа город Партизанск" data-drupal-link-system-path="node/101">Структура</a>
+                                <ul>
+                    <li class="menu-item--_58a9546-9480-4bbf-9c65-5b0b1ba0ec7c menu-name--main">
+        <a href="/index.php/administration/struktura/glava" title="Глава муниципального округа город Партизанск Приморского края" data-drupal-link-system-path="node/333">Глава МО г. Партизанск</a>
+              </li>
+                <li class="menu-item--b8646079-ac59-4001-9c90-412ed105dcd9 menu-name--main">
+        <a href="/index.php/administration/struktura/1zam" title="Первый заместитель главы администрации муниципального округа город Партизанск Приморского края" data-drupal-link-system-path="node/334">Первый заместитель главы</a>
+              </li>
+                <li class="menu-item--af330635-355b-4a11-bbd0-25f25cacc1f3 menu-name--main">
+        <a href="/index.php/administration/struktura/zamestiteli_glavy" title="Заместители главы администрации муниципального округа город Партизанск Приморского края" data-drupal-link-system-path="node/335">Заместители главы администрации</a>
+              </li>
+                <li class="menu-item--_75378c5-4b7e-4808-8c7d-a56e8f39cd89 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya" data-drupal-link-system-path="node/103">Управления</a>
+                                <ul>
+                    <li class="menu-item--_cadbd12-5330-4efc-a0c0-746099adf9ab menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ubuio" title="Управление бухгалтерского учёта и отчётности" data-drupal-link-system-path="node/105">Управление бухгалтерского учёта</a>
+              </li>
+                <li class="menu-item--c9103485-dbf1-44a0-9750-a5523499ce06 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/fu" title="Финансовое управление администрации муниципального округа город Партизанск" data-drupal-link-system-path="node/358">Финансовое управление</a>
+                                <ul>
+                    <li class="menu-item--ec29ef3f-52cd-4fa0-8ced-723dc02a8969 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/fu/o_fu" title="О финансовом управлении администрации Партизанского городского округа" data-drupal-link-system-path="node/359">О финансовом управлении</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_084fdc5-54d9-4217-8eb1-45be70f01575 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/uptiokr" title="Управление по территориальной и организационно-контрольной работе" data-drupal-link-system-path="node/109">Управление по организационно-контрольной работе</a>
+              </li>
+                <li class="menu-item--_c20e8cc-35c1-44ec-8148-c686844ab210 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis" data-drupal-link-system-path="node/110">Управление экономики и собственности</a>
+                                <ul>
+                    <li class="menu-item--_4591822-ecc1-4516-80c6-3b9c0273a1fd menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/ob_upravlenii" data-drupal-link-system-path="node/111">Об управлении экономики и собственности</a>
+              </li>
+                <li class="menu-item--d2040ce6-fa71-45f6-b854-7c76106d3332 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/otdel_ekonomiki" data-drupal-link-system-path="node/2185">Отдел экономики</a>
+                                <ul>
+                    <li class="menu-item--_178b551-0ce9-43c5-94d6-de8a410b5518 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/otdel_ekonomiki/trud" data-drupal-link-system-path="node/1542">Труд</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_b4817ba-02db-4fd7-b6a7-d9e4a1b49653 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/torg" title="Специалисты по вопросам потребительского рынка" data-drupal-link-system-path="node/659">Специалисты по вопросам потребительского рынка</a>
+              </li>
+                <li class="menu-item--d1ca140a-54cd-4779-bca1-2f788cf15985 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/oio" data-drupal-link-system-path="node/297">Отдел имущественных отношений</a>
+                                <ul>
+                    <li class="menu-item--_46143dc-d9cb-43bc-a159-cf98da59f978 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/oio/ob_otdele_imuschestvennykh_otnosheniy" data-drupal-link-system-path="node/298">Об отделе имущественных отношений</a>
+              </li>
+                <li class="menu-item--_308c418-e793-4059-b9bf-ab4a5cd22b4e menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/oio/aukcionnye_torgi" data-drupal-link-system-path="node/300">Аукционные торги</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_02d4ffd-d9b6-457e-b9e2-5257285a310e menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/otr" data-drupal-link-system-path="node/347">Отдел территриального развития</a>
+              </li>
+                <li class="menu-item--_96d1513-4183-40f8-a7f7-b00cca791485 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/oapkioos" title="Отдел агропромышленного комплекса и охраны окружающей среды" data-drupal-link-system-path="node/113">Отдел АПКиООС</a>
+                                <ul>
+                    <li class="menu-item--c9446dca-aaa0-4881-8f09-047c664e336d menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/oapkioos/ob_otdele" title="Об отделе агропромышленного комплекса и охраны окружающей среды" data-drupal-link-system-path="node/114">Об отделе</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_f5a492d-9383-4715-b597-a2676233938d menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ueis/opupg" data-drupal-link-system-path="node/1249">Отдел по учёту и переселению граждан</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_f1253e5-9778-4eb4-b0f3-25fea5a42c2c menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/uobr" title="Управление образования администрации Партизанского муниципального округа г. Партизанск Приморского края" data-drupal-link-system-path="node/649">Управление образования</a>
+                                <ul>
+                    <li class="menu-item--a9d66a9f-6024-43c8-9276-ff502820a891 menu-name--main">
+        <a href="http://ooapgo.partizansk.org/" title="Официальный сайт управления образования администрации Партизанского городского округа">Управление образования</a>
+              </li>
+                <li class="menu-item--_1eea306-4775-4c97-80d2-3c35dd3c3631 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/uobr/opeka" title="Отдел по исполнению государственных полномочий в сфере опеки и попечительства управления образования администрации муниципального округа город Партизанск" data-drupal-link-system-path="node/653">Опека и попечительство</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--a2c8d4c9-66d1-483d-ba19-e434ebb19c1f menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk" title="Управление жилищно-коммунального комплекса" data-drupal-link-system-path="node/567">Управление ЖКК</a>
+                                <ul>
+                    <li class="menu-item--_11dc0c8-bc36-47aa-99a4-339d0a1c6d36 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/ob_upravlenii" data-drupal-link-system-path="node/1929">Об управлении</a>
+              </li>
+                <li class="menu-item--_bf08b22-7f2b-4b9f-a328-a6eba658f624 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/planovye_proverki" data-drupal-link-system-path="node/1942">Плановые проверки</a>
+              </li>
+                <li class="menu-item--fd5c2514-31c8-4444-884b-214ddc3457b8 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/gorodskie_dispetcherskie_sluzhby" data-drupal-link-system-path="node/1944">Городские диспетчерские службы</a>
+              </li>
+                <li class="menu-item--a547b0c7-cc1f-478d-a1d6-80ff1ef59e77 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/pravila_blagoustroystva_territorii_partizanskogo" title="Правила благоустройства территории Партизанского городского округа" data-drupal-link-system-path="node/2002">Правила благоустройства</a>
+              </li>
+                <li class="menu-item--_6a91a33-541e-4226-98cb-213772ef01a5 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/kapitalnyy_remont_mnogokvartirnykh_domov" title="Капитальный ремонт многоквартирных домов" data-drupal-link-system-path="node/1999">Капитальный ремонт</a>
+              </li>
+                <li class="menu-item--_8d419c5-9a72-489d-ad4b-d25c8b1e45f8 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/skhema_teplosnabzheniya" data-drupal-link-system-path="node/2034">Схема теплоснабжения,водоснабжения. Программа комплексного развития систем коммун.инфраструктуры</a>
+              </li>
+                <li class="menu-item--b4e1c5ae-0856-4633-a686-30b9abb8b94d menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/podgotovka_k_otopitelnomu_sezonu" data-drupal-link-system-path="node/16336">Подготовка к отопительному сезону</a>
+              </li>
+                <li class="menu-item--_c0ae775-2673-448b-858f-66af9ed39e9a menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/tarify_normativy" data-drupal-link-system-path="node/1945">Тарифы, нормативы</a>
+              </li>
+                <li class="menu-item--ba15ee92-04ae-45d3-a3a1-d07b89e86640 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/gkk/informirovanie_grazhdan" data-drupal-link-system-path="node/2005">Информирование граждан</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_5127b1e-57a3-4712-93b7-eef67708eeb0 menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/ahu" data-drupal-link-system-path="node/568">Административно-хозяйственное управление</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--a8d83208-1044-4b31-97e5-063933a9c162 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely" data-drupal-link-system-path="node/104">Отделы</a>
+                                <ul>
+                    <li class="menu-item--_4c20ced-1bb4-4705-ac1e-eb4f586f9447 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/kro" data-drupal-link-system-path="node/1238">Контрольно-ревизионный отдел</a>
+              </li>
+                <li class="menu-item--f7fca4e8-42b0-4a8b-bc8d-4002da27b6b1 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/otdel_zags" title="Отдел записи актов гражданского состояния" data-drupal-link-system-path="node/7753">Отдел ЗАГС</a>
+              </li>
+                <li class="menu-item--_3eebd0c-052a-4fe7-9a31-957d380177e6 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/ok" title="Отдел культуры и молодёжной политики" data-drupal-link-system-path="node/611">Отдел культуры</a>
+              </li>
+                <li class="menu-item--dca31a3f-293e-4c47-9e7d-80384cdd7f81 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik" data-drupal-link-system-path="node/421">Отдел муниципальной службы и кадров</a>
+              </li>
+                <li class="menu-item--_e4bec8b-29d5-4d42-be90-24038b614d15 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/otdel_po_zakupkam" data-drupal-link-system-path="node/7746">Отдел по закупкам</a>
+              </li>
+                <li class="menu-item--_3c821a3-e6fa-4c94-86fd-609eca146ba1 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/otdel_po_mob_rabote" data-drupal-link-system-path="node/15870">Отдел по мобилизационной работе</a>
+              </li>
+                <li class="menu-item--_12497ab-a3be-4362-8ca3-d8b3e368f4de menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/otdel_ovfa" data-drupal-link-system-path="node/15869">Отдел по осуществлению внутреннего финансового аудита</a>
+              </li>
+                <li class="menu-item--bf773835-d290-4c78-ba99-8d2909bcc31a menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/jurotdel" data-drupal-link-system-path="node/14450">Отдел правового обеспечения</a>
+              </li>
+                <li class="menu-item--_7726a07-9518-446b-ae62-6614c6bd9d55 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/sport" data-drupal-link-system-path="node/639">Отдел физической культуры и спорта</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_94ca6c2-bf55-4624-864f-5dc61299fb02 menu-name--main">
+        <a href="/index.php/administration/struktura/archive" title="Муниципальный архив муниципального округа город Партизанск" data-drupal-link-system-path="node/697">Муниципальный архив</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--viewsdepartmentpage-1 menu-name--main">
+        <a href="/index.php/phone" title="Телефонный справочник администрации муниципального округа город Партизанск" data-drupal-link-system-path="phone">✆ Телефонный справочник</a>
+              </li>
+                <li class="menu-item--_837ee90-7b3d-4921-9d4c-27734e6f7931 menu-name--main">
+        <a href="/index.php/administration/grafik_raboty_administracii_municipalnogo_okruga_gorod_partizansk" title="График работы администрации муниципального округа город Партизанск" data-drupal-link-system-path="node/411">График работы</a>
+              </li>
+                <li class="menu-item--_66b6075-398d-44b7-b61d-a0e47b067434 menu-name--main">
+        <a href="/index.php/administration/plan_raboty_amogp" title="План работы администрации муниципального округа город Партизанск" data-drupal-link-system-path="node/413">План работы администрации</a>
+                                <ul>
+                    <li class="menu-item--_9531452-fb4f-4a2d-8640-7b96470fe419 menu-name--main">
+        <a href="/index.php/administration/plan_raboty_amogp/informaciya_o_khode_2025" data-drupal-link-system-path="node/16581">Информация о ходе выполнения перспективного плана работы на 2025 год</a>
+              </li>
+                <li class="menu-item--_96a8033-771b-4765-ab58-8473cb058cbc menu-name--main">
+        <a href="/index.php/administration/plan_raboty_amogp/informaciya_o_khode_vypolneniya_perspektivnogo_plana_raboty_na" data-drupal-link-system-path="node/13325">Информация о ходе выполнения перспективного плана работы на 2024 год</a>
+              </li>
+                <li class="menu-item--_989d2e2-24dc-452f-bcd4-1db32adca084 menu-name--main">
+        <a href="/index.php/administration/plan_raboty_amogp/informaciya_o_khode_2023" data-drupal-link-system-path="node/9165">Информация о ходе выполнения перспективного плана работы на 2023 год</a>
+              </li>
+                <li class="menu-item--_7fc5920-f7d8-404d-b9ee-164d981447e1 menu-name--main">
+        <a href="/index.php/administration/plan_raboty_amogp/informaciya_o_khode_2022" data-drupal-link-system-path="node/6156">Информация о ходе выполнения перспективного плана работы на 2022 год</a>
+              </li>
+                <li class="menu-item--f25305d7-b2aa-4993-bc44-e03abac13e27 menu-name--main">
+        <a href="/index.php/administration/plan_raboty_amogp/informaciya_o_khode_2021" data-drupal-link-system-path="node/2850">Информация о ходе выполнения перспективного плана работы на 2021 год</a>
+              </li>
+                <li class="menu-item--_a6bd8c8-45df-48b5-a70d-76ff9ba36e99 menu-name--main">
+        <a href="/index.php/administration/plan_raboty_amogp/informaciya_o_khode_2020" data-drupal-link-system-path="node/2844">Информация о ходе выполнения перспективного плана работы на 2020 год</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--debebd62-a069-42e6-afdc-4adbde0e3c7b menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba" data-drupal-link-system-path="node/422">Муниципальная служба</a>
+                                <ul>
+                    <li class="menu-item--ee5377e7-5f4d-40f0-b069-1dc817dd762a menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba/protiv_korrupcii/sved_o_doh" title="СВЕДЕНИЯ О ДОХОДАХ, РАСХОДАХ, ИМУЩЕСТВЕ И ОБЯЗАТЕЛЬСТВАХ ИМУЩЕСТВЕННОГО ХАРАКТЕРА" data-drupal-link-system-path="node/428">Сведения о доходах</a>
+              </li>
+                <li class="menu-item--_2354087-84d8-489c-b539-a1c116ca7633 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba/attestaciya" data-drupal-link-system-path="node/423">Аттестация</a>
+              </li>
+                <li class="menu-item--_8ad3646-f1e9-4165-86d5-f02360dc4f42 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba/konkurs" data-drupal-link-system-path="node/424">Конкурс</a>
+              </li>
+                <li class="menu-item--_1870058-13bc-45df-86cd-2ffdbf48a57a menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba/vakansii" data-drupal-link-system-path="node/425">Вакансии</a>
+              </li>
+                <li class="menu-item--_1ecf2bb-064c-418e-b1cd-5adef1907e57 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba/normativnye_akty" data-drupal-link-system-path="node/427">Нормативные акты</a>
+              </li>
+                <li class="menu-item--b2085ca9-01b3-4e88-a419-7dc89a1db017 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba/personalnye_dannye" data-drupal-link-system-path="node/430">Персональные данные</a>
+              </li>
+                <li class="menu-item--_b59f535-6bb2-4dae-aa3e-55ae065a52c1 menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/mun_sluzhba/protiv_korrupcii" data-drupal-link-system-path="node/627">Противодействие коррупции</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_ae0020a-0832-4121-a709-5a526901f02b menu-name--main">
+        <a href="/index.php/administration/okhrana_truda" data-drupal-link-system-path="node/460">Охрана труда</a>
+                                <ul>
+                    <li class="menu-item--e57489f7-e134-47af-aa64-f31434bdd25f menu-name--main">
+        <a href="/index.php/administration/okhrana_truda/vedomstvennyy_kontrol" title="Ведомственный контроль за соблюдением трудового законодательства и иных нормативных правовых актов, содержащих нормы трудового права, на территории Приморского края" data-drupal-link-system-path="node/461">Ведомственный контроль</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--c3206764-fa96-4ab5-947c-1169358e7ed4 menu-name--main">
+        <a href="/index.php/otdel_po_osuschestvleniyu_gosudarstvennykh_polnomochiy_po_ispolneniyu_administrativnogo" title="Отдел по осуществлению государственных полномочий по исполнению административного законодательства" data-drupal-link-system-path="node/7942">Административная комиссия</a>
+              </li>
+                <li class="menu-item--c47255ef-0811-452a-bf42-f7a9e272f58c menu-name--main">
+        <a href="/index.php/kdn" data-drupal-link-system-path="node/5204">Комиссия по делам несовершеннолетних</a>
+              </li>
+                <li class="menu-item--_7854d43-b265-44c6-a897-63952f6a7ad5 menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh" data-drupal-link-system-path="node/440">Информация о проверках</a>
+                                <ul>
+                    <li class="menu-item--_2dfbe0e-1b2c-4e40-a0d9-f4e0d51799c9 menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/plany_proverok" title="Ежегодные планы проведения плановых проверок юридических лиц и индивидуальных предпринимателей" data-drupal-link-system-path="node/453">Планы проверок</a>
+              </li>
+                <li class="menu-item--_8ad95c3-f1bc-44f3-9604-4fc6eed3d490 menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/inf_o_proverkakh" data-drupal-link-system-path="node/441">Информация о проверках в рамках муниципального контроля</a>
+              </li>
+                <li class="menu-item--cc5111b8-b8f7-4e58-984e-0a9740db729f menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/municipalnyy_kontrol" data-drupal-link-system-path="node/1489">Муниципальный контроль</a>
+                                <ul>
+                    <li class="menu-item--_9d78b14-6ca6-4f50-aa73-c0fac89ab493 menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_zhilischnyy_kontrol_v" title="Муниципальный жилищный контроль в сфере ЖКХ" data-drupal-link-system-path="node/1313">Муниципальный жилищный контроль</a>
+              </li>
+                <li class="menu-item--_4a22fc6-dab1-4717-886b-78ed80fa037c menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_kontrol_na_avtomobilnom" data-drupal-link-system-path="node/1319">Муниципальный контроль на автомобильном транспорте, городском наземном электрическом транспорте и в дорожном хозяйстве</a>
+              </li>
+                <li class="menu-item--d12636a0-032a-4a50-a377-c60c46c6e44e menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_lesnoy_kontrol" data-drupal-link-system-path="node/1444">Муниципальный лесной контроль</a>
+              </li>
+                <li class="menu-item--_8eb1c81-eadc-4c3f-88f1-a32b0d2f1b6e menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_zemelnyy_kontrol" data-drupal-link-system-path="node/1437">Муниципальный земельный контроль</a>
+              </li>
+                <li class="menu-item--_e16e25b-6835-4d65-93e2-95ebf6e4d199 menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_kontrol_v_sfere" data-drupal-link-system-path="node/3906">Муниципальный контроль в сфере благоустройства</a>
+              </li>
+                <li class="menu-item--_451e5c9-1920-46a4-a76a-63b289cdd495 menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/municipalnyy_kontrol/municipalnyy_kontrol_za_ispolneniem" data-drupal-link-system-path="node/3907">Муниципальный контроль за исполнением единой теплоснабжающей организацией обязательств по строительству, реконструкции и (или) модернизации объектов теплоснабжения</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_3d4083e-1692-437f-a36a-485170553cdb menu-name--main">
+        <a href="/index.php/administration/informaciya_o_proverkakh/vedomstvennyy_kontrol" data-drupal-link-system-path="node/1226">Ведомственный контроль</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_a80f9ee-5f9f-4bfb-ba03-77cec43f1dda menu-name--main">
+        <a href="/index.php/administration/perechni_informacionnykh_sistem_bankov_dannykh_reestrov_registrov_nakhodyaschikhsya" title="Перечни информационных систем, банков данных, реестров, регистров, находящихся в ведении органов местного самоуправления" data-drupal-link-system-path="node/459">Перечни информационных систем</a>
+              </li>
+                <li class="menu-item--d40219c2-df6b-40e8-8d62-da1440a53564 menu-name--main">
+        <a href="/index.php/administration/svedeniya_o_sredstvakh_massovoy_informacii_uchrezhdennykh_organami_mestnogo" title="Сведения о средствах массовой информации, учрежденных органами местного самоуправления" data-drupal-link-system-path="node/412">Средства массовой информации</a>
+              </li>
+                <li class="menu-item--_7ee782e-340a-476c-8c52-7c9459128849 menu-name--main">
+        <a href="/index.php/administration/antiterror" data-drupal-link-system-path="node/439">Антитеррористическая деятельность</a>
+              </li>
+                <li class="menu-item--_03c2348-366c-49fb-bcf5-707e14ba4eaf menu-name--main">
+        <a href="/index.php/administration/struktura/otdely/omsik/municipalnaya_sluzhba/protivodeystvie_korrupcii/nezavisimaya">Независимая антикоррупционная экспертиза</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--e5892639-3232-40f7-8d00-566de625b3df menu-name--main">
+        <a href="/index.php/contact" data-drupal-link-system-path="node/16695">Приёмная</a>
+                                <ul>
+                    <li class="menu-item--ea5f2a1f-f38d-40f2-b460-2f3685049b39 menu-name--main">
+        <a href="/index.php/rso" data-drupal-link-system-path="node/336">Работа с общественностью</a>
+                                <ul>
+                    <li class="menu-item--d93fef06-6665-451d-8db2-787aa572afbe menu-name--main">
+        <a href="/index.php/rso/obschestvennaya_priemnaya" data-drupal-link-system-path="node/338">Общественная приемная</a>
+              </li>
+                <li class="menu-item--_c3028c5-926b-4a82-8143-48f161aa3400 menu-name--main">
+        <a href="/index.php/rso/informacionnye_vstrechi" data-drupal-link-system-path="node/388">Информационные встречи</a>
+              </li>
+                <li class="menu-item--c265f225-dc59-4407-94e8-5f105ecbcdd4 menu-name--main">
+        <a href="/index.php/rso/press_konferencii_glavy_administracii_partizanskogo_gorodskogo_okruga" title="Пресс-конференции главы администрации Партизанского городского округа" data-drupal-link-system-path="node/389">Пресс-конференции</a>
+              </li>
+                <li class="menu-item--e59ae09d-fc12-4415-8ea4-f56cb2256c0f menu-name--main">
+        <a href="/index.php/rso/obschestvennaya_palata" data-drupal-link-system-path="node/3686">Общественная палата</a>
+              </li>
+                <li class="menu-item--_6757065-808c-473a-9dd0-f7ab0d316fd9 menu-name--main">
+        <a href="http://partizansk.org/rso/nko" title="Некоммерческие организации">Некоммерческие организации</a>
+              </li>
+                <li class="menu-item--d4b6d9d9-3a53-4c76-8e09-ee564a05acb4 menu-name--main">
+        <a href="/index.php/rso/municipalnoe_avtonomnoe_uchrezhdenie_redakciya_gazety_vesti" title="Муниципальное автономное учреждение &quot;Редакция газеты «Вести»&quot;" data-drupal-link-system-path="node/8328">Редакция газеты «Вести»</a>
+              </li>
+        </ul>
+  
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_d13a4f2-573c-4071-ac65-35c297bae295 menu-name--main">
+        <a href="/index.php/fikogv" title="Органы местного самоуправления, федеральные и краевые органы государственной власти, действующие на территории Муниципального округа г. Партизанск" data-drupal-link-system-path="node/16">Органы власти</a>
+                                <ul>
+                    <li class="menu-item--_3a97535-b75f-4eb9-a0c8-ff1f0b6078db menu-name--main">
+        <a href="http://duma.partizansk.org/" title="Дума Муниципального округа г. Партизанск">Дума МОГП</a>
+              </li>
+                <li class="menu-item--a7dfca89-c2a7-4004-a3c9-ef0c8e66d76e menu-name--main">
+        <a href="/index.php/fikogv/tik" title="Территориальная избирательная комиссия города Партизанска" data-drupal-link-system-path="node/18">Избирательная комиссия</a>
+              </li>
+                <li class="menu-item--b217fd3a-9a03-42c0-818c-054459a458d0 menu-name--main">
+        <a href="http://ksp.partizansk.org/" title="Контрольно-счётная палата Муниципального округа г. Партизанск">Контрольно-счётная палата</a>
+              </li>
+                <li class="menu-item--_803eb52-dc89-419f-9407-e93508ff34b8 menu-name--main">
+        <a href="http://partizansky.prm.sudrf.ru/" title="Партизанский городской суд">Суд</a>
+              </li>
+                <li class="menu-item--_f9c6171-ff5e-4e64-9aab-ad72da3992cf menu-name--main">
+        <a href="/index.php/fikogv/prokuratura_g_partizanska" title="Прокуратура города Партизанска" data-drupal-link-system-path="node/19">Прокуратура г. Партизанска</a>
+                                <ul>
+                    <li class="menu-item--_7b2bc4c-0758-4b49-bf34-7906ec4c8b2f menu-name--main">
+        <a href="/index.php/prokuratura_g_partizanska/protivodeystvie_ekstremizmu" data-drupal-link-system-path="node/15259">Противодействие экстремизму</a>
+              </li>
+                <li class="menu-item--_d379f04-63cf-4aec-a91d-0bfcddcc44bf menu-name--main">
+        <a href="/index.php/prokuratura_g_partizanska/protivodeystvie_korrupcii" data-drupal-link-system-path="node/15253">Противодействие коррупции</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--fdc92663-692d-4560-a689-1fe1e67c0ef9 menu-name--main">
+        <a href="/index.php/19605_vladivostokskaya_mezhrayonnaya_prirodoohrannaya_prokuratura" title="Владивостокская межрайонная природоохранная прокуратура" data-drupal-link-system-path="node/20">Природоохранная прокуратура</a>
+              </li>
+                <li class="menu-item--_9eb036c-1eff-4af6-8f1a-8ac7c28c3ab5 menu-name--main">
+        <a href="/index.php/fikogv/otdel_ministerstva_vnutrennih_del_rf_po_g_partizansku" title="Отдел Министерства внутренних дел РФ по г. Партизанску" data-drupal-link-system-path="node/22">ОМВД по г. Партизанску</a>
+                                <ul>
+                    <li class="menu-item--_57d0c49-ad30-43eb-ad87-6319214f5531 menu-name--main">
+        <a href="/index.php/fikogv/otdel_ministerstva_vnutrennih_del_rf_po_g_partizansku/informaciya_dlya_naseleniya" data-drupal-link-system-path="node/2290">Информация для населения</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_fc885a1-417a-426f-ae41-c1a10b4d4667 menu-name--main">
+        <a href="/index.php/fikogv/rospotrbnadzor" title="Территориальный отдел Управления Роспотребнадзора по Приморскому краю в г. Партизанске" data-drupal-link-system-path="node/29">Роспотребнадзор</a>
+              </li>
+                <li class="menu-item--_5d99b2b-ed8c-4c4c-ad61-89784413bdf1 menu-name--main">
+        <a href="/index.php/fikogv/MiFNS" title="Межрайонная инспекция ФНС России № 16" data-drupal-link-system-path="node/23">МИФНС № 16 по ПК</a>
+              </li>
+                <li class="menu-item--a30929da-280d-4532-bac1-44c4573535cf menu-name--main">
+        <a href="/index.php/fikogv/pensionnyy_fond" title="Отделение фонда пенсионного и социального страхования Российской Федерации по Приморскому краю" data-drupal-link-system-path="node/24">Фонд пенсионного и социального страхования</a>
+              </li>
+                <li class="menu-item--e82f676f-5e45-441b-8dcc-a7ad076e524c menu-name--main">
+        <a href="/index.php/fikogv/otdel_statistiki" title="Отдел государственной статистики по Партизанскому городскому округа" data-drupal-link-system-path="node/25">Отдел статистики</a>
+              </li>
+                <li class="menu-item--_b4c97bf-806b-4952-930e-05ed95e6d70a menu-name--main">
+        <a href="https://profzan.primorsky.ru/Czn/Detail/?id=8439d66f-0a66-4425-9f24-d853b8c13bd4" title="Центр занятости населения">Отделение КГКУ &quot;ПЦЗН&quot; в г. Партизанске</a>
+              </li>
+                <li class="menu-item--_d7b0e61-f90e-47d1-b268-e902d61562b7 menu-name--main">
+        <a href="/index.php/fikogv/upravlenie_rosreestra_po_primorskomu_krayu" title="Управление Росреестра по Приморскому краю" data-drupal-link-system-path="node/28">Росреестр</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_abf280b-3020-43da-adf1-b93c413e5a00 menu-name--main">
+        <a href="/index.php/news" title="Официальные новости Партизанского городского округа" data-drupal-link-system-path="taxonomy/term/6">Новости</a>
+                                <ul>
+                    <li class="menu-item--_de594ba-1cb0-4aa9-be53-e4f82b9f4117 menu-name--main">
+        <a href="/index.php/anons" data-drupal-link-system-path="taxonomy/term/5">Анонсы</a>
+              </li>
+                <li class="menu-item--_f4802fa-8db7-49f8-818c-ed41158dc822 menu-name--main">
+        <a href="/index.php/adverts" title="Официальные объявления" data-drupal-link-system-path="taxonomy/term/15">Объявления</a>
+              </li>
+                <li class="menu-item--_78681ef-cc0c-4955-bb3c-3b6d13f43c50 menu-name--main">
+        <a href="/index.php/public_listening" data-drupal-link-system-path="taxonomy/term/4">Публичные слушания</a>
+              </li>
+                <li class="menu-item--a5c24256-24ed-4869-bffd-8b2979edd591 menu-name--main">
+        <a href="/index.php/polls" title="Опросы" data-drupal-link-system-path="polls">Опросы</a>
+              </li>
+                <li class="menu-item--fe15bbb3-de0e-44ac-9a6e-dd4f383531fa menu-name--main">
+        <a href="/index.php/activity" data-drupal-link-system-path="activity">Последние материалы</a>
+                                <ul>
+                    <li class="menu-item--viewsactivity-advancedpage-1 menu-name--main">
+        <a href="/index.php/activity/advanced" data-drupal-link-system-path="activity/advanced">Последние материалы (расширенное представление)</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--viewsnovosti-ot-primorsky-ru-feedpage-1 menu-name--main">
+        <a href="/index.php/news/primorsky_ru" title="Новости от primorsky.ru" data-drupal-link-system-path="news/primorsky_ru">Новости от primorsky.ru</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_0dea0df-8f4b-464a-b75d-67c7965cbe51 menu-name--main">
+        <a href="/index.php/socialsphere/svo" title="Помощь участникам СВО и членам их семей" data-drupal-link-system-path="node/15949">СВО</a>
+              </li>
+        </ul>
+  
+
+</div></div>
+    <script type="application/json" data-drupal-selector="drupal-settings-json">{"path":{"baseUrl":"\/","scriptPath":null,"pathPrefix":"","currentPath":"","currentPathIsAdmin":false,"isFront":false,"currentLanguage":"ru"},"pluralDelimiter":"\u0003","suppressDeprecationErrors":true,"ajaxPageState":{"libraries":"asset_injector\/css\/_search_block_form,asset_injector\/css\/autobus,asset_injector\/css\/beauty_rotate,asset_injector\/css\/book_navigation,asset_injector\/css\/colwid,asset_injector\/css\/cvet_aktivnoy_ssylki_v_glavnom_menyu,asset_injector\/css\/feed_icon,asset_injector\/css\/fieldset_legend,asset_injector\/css\/figcap_dlya_vidzheta,asset_injector\/css\/figcaption_dlya_vidzheta,asset_injector\/css\/file,asset_injector\/css\/flex,asset_injector\/css\/flex_direction_nav,asset_injector\/css\/fs18,asset_injector\/css\/gerb,asset_injector\/css\/gradient_dlya_knopki,asset_injector\/css\/gradient_dlya_teksta,asset_injector\/css\/hover_image_7,asset_injector\/css\/iframe_border,asset_injector\/css\/ispravlenie_shiriny_nazvaniya_sayta,asset_injector\/css\/krasivye_knopki,asset_injector\/css\/links_inline,asset_injector\/css\/lowercase,asset_injector\/css\/magicnowrap,asset_injector\/css\/margin_bottom_0,asset_injector\/css\/marginright,asset_injector\/css\/mb,asset_injector\/css\/node__content,asset_injector\/css\/node__submitted,asset_injector\/css\/ol,asset_injector\/css\/one_inner_item2,asset_injector\/css\/organization_inner_text,asset_injector\/css\/otklyuchenie_centrovki_zagolovkov_stranic,asset_injector\/css\/podpis,asset_injector\/css\/pulsaciya_knopok,asset_injector\/css\/rasstoyanie_mezhdu_punktami_glavnogo_menyu,asset_injector\/css\/red,asset_injector\/css\/req,asset_injector\/css\/right_new_text,asset_injector\/css\/rtecenter,asset_injector\/css\/rteleft,asset_injector\/css\/shrift_anonymous_pro,asset_injector\/css\/shrift_bitter,asset_injector\/css\/shrift_exo_2,asset_injector\/css\/shrift_hachi_maru_pop,asset_injector\/css\/shrift_marck_script,asset_injector\/css\/shrift_montserrat_alternates,asset_injector\/css\/shrift_pattaya,asset_injector\/css\/shrift_train_one,asset_injector\/css\/tabs_primary,asset_injector\/css\/tags,asset_injector\/css\/time,asset_injector\/css\/two_block_img_img,asset_injector\/css\/two_block_inner_item,asset_injector\/css\/two_textbloc,asset_injector\/css\/ul_tire,asset_injector\/css\/umen,asset_injector\/css\/vispecialblocktext,asset_injector\/css\/zhirnye_granicy,asset_injector\/css\/znachok_konverta_pered_adresom_elpochty,asset_injector\/css\/znachok_telefona_na_knopke_nomera,asset_injector\/js\/iframe,asset_injector\/js\/poslednyaya_stroka_v_telefonnom_spravochnike,asset_injector\/js\/verkhnyaya_stroka_po_galke_osnovnoe_v_telefonnom_spravochnike,classy\/base,classy\/messages,colorbox\/stockholmsyndrome,colorbox_inline\/colorbox_inline,core\/drupal.autocomplete,core\/normalize,eu_cookie_compliance\/eu_cookie_compliance_default,mogp\/global-styling,password_eye\/pwd_eye_lib,poll\/drupal.poll-links,responsive_menu\/responsive_menu.bootstrap,responsive_menu\/responsive_menu.breakpoint,responsive_menu\/responsive_menu.styling,search_autocomplete\/theme.basic.css,simple_popup_views\/simple_popup_views,social_media_links\/social_media_links.theme,superfish\/superfish,superfish\/superfish_hoverintent,superfish\/superfish_smallscreen,superfish\/superfish_style_white,superfish\/superfish_supersubs,superfish\/superfish_supposition,superfish\/superfish_touchscreen,system\/base,tb_megamenu\/block_style.blue,tb_megamenu\/theme.tb_megamenu,visually_impaired_module\/visually_impaired_module","theme":"mogp","theme_token":null},"ajaxTrustedUrl":{"\/index.php\/search\/node":true,"form_action_p_pvdeGsVG5zNF_XLGPTvYSKCf43t8qZYSwcfZl2uzM":true},"responsive_menu":{"position":"left","theme":"theme-dark","pagedim":"pagedim","modifyViewport":true,"use_bootstrap":true,"breakpoint":"(min-width: 960px)","drag":false,"pageWrapper":false},"colorbox":{"transition":"elastic","speed":350,"opacity":0.85,"slideshow":false,"slideshowAuto":false,"slideshowSpeed":6000,"slideshowStart":"\u0437\u0430\u043f\u0443\u0441\u0442\u0438\u0442\u044c \u0441\u043b\u0430\u0439\u0434\u0448\u043e\u0443","slideshowStop":"\u043e\u0441\u0442\u0430\u043d\u043e\u0432\u0438\u0442\u044c \u0441\u043b\u0430\u0439\u0434\u0448\u043e\u0443","current":"{current} \u0438\u0437 {total}","previous":"\u00ab \u041f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0439","next":"\u0421\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0439 \u00bb","close":"\u0417\u0430\u043a\u0440\u044b\u0442\u044c","overlayClose":true,"returnFocus":true,"maxWidth":"98%","maxHeight":"98%","initialWidth":"300","initialHeight":"250","fixed":true,"scrolling":true,"mobiledetect":true,"mobiledevicewidth":"640px"},"search_autocomplete":{"autocompletion_for_input_edit_string_form_search":{"source":"\/callback\/nodes","selector":"input#edit-string.form-search","minChars":3,"maxSuggestions":6,"autoSubmit":true,"autoRedirect":true,"theme":"basic","filters":["q","title"],"noResult":{"group":{"group_id":"no_results"},"label":"\u041d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 [search-phrase]. \u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u0432 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a.","value":"[search-phrase]","link":"\/activity\/advanced?title=[search-phrase]\u0026body_value=[search-phrase]\u0026uid="},"moreResults":{"group":{"group_id":"more_results"},"label":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u0441\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0434\u043b\u044f [search-phrase].","value":"[search-phrase]","link":"\/activity\/advanced?title=[search-phrase]\u0026body_value=[search-phrase]\u0026uid="}},"search_block":{"source":"\/index.php\/callback\/nodes","selector":"","minChars":3,"maxSuggestions":6,"autoSubmit":true,"autoRedirect":true,"theme":"basic","filters":["q","title"],"noResult":{"group":{"group_id":"no_results"},"label":"\u041d\u0438\u0447\u0435\u0433\u043e \u043d\u0435 \u043d\u0430\u0439\u0434\u0435\u043d\u043e \u043f\u043e \u0437\u0430\u043f\u0440\u043e\u0441\u0443 [search-phrase]. \u041d\u0430\u0436\u043c\u0438\u0442\u0435 \u0434\u043b\u044f \u043f\u0435\u0440\u0435\u0445\u043e\u0434\u0430 \u0432 \u0440\u0430\u0441\u0448\u0438\u0440\u0435\u043d\u043d\u044b\u0439 \u043f\u043e\u0438\u0441\u043a.","value":"[search-phrase]","link":"\/activity\/advanced?title=[search-phrase]\u0026body_value=[search-phrase]\u0026uid="},"moreResults":{"group":{"group_id":"more_results"},"label":"\u041f\u0440\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u0432\u0441\u0435 \u0440\u0435\u0437\u0443\u043b\u044c\u0442\u0430\u0442\u044b \u0434\u043b\u044f [search-phrase].","value":"[search-phrase]","link":"\/activity\/advanced?title=[search-phrase]\u0026body_value=[search-phrase]\u0026uid="}}},"eu_cookie_compliance":{"cookie_policy_version":"1.0.0","popup_enabled":true,"popup_agreed_enabled":false,"popup_hide_agreed":false,"popup_clicking_confirmation":false,"popup_scrolling_confirmation":false,"popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Ch2\u003E\u041c\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c \u0444\u0430\u0439\u043b\u044b cookie \u043d\u0430 \u044d\u0442\u043e\u043c \u0441\u0430\u0439\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u0443\u043b\u0443\u0447\u0448\u0438\u0442\u044c \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430\u003C\/h2\u003E\u003Cp\u003E\u041d\u0430\u0436\u0438\u043c\u0430\u044f \u043a\u043d\u043e\u043f\u043a\u0443 \u0022\u041f\u0440\u0438\u043d\u044f\u0442\u044c\u0022, \u0432\u044b \u0441\u043e\u0433\u043b\u0430\u0448\u0430\u0435\u0442\u0435\u0441\u044c \u0441 \u044d\u0442\u0438\u043c.\u003C\/p\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003E\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003E\u041f\u0440\u0438\u043d\u044f\u0442\u044c\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003E\u041e\u0442\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","use_mobile_message":false,"mobile_popup_html_info":"\u003Cdiv aria-labelledby=\u0022popup-text\u0022  class=\u0022eu-cookie-compliance-banner eu-cookie-compliance-banner-info eu-cookie-compliance-banner--opt-in\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n        \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \n              \u003Cbutton type=\u0022button\u0022 class=\u0022find-more-button eu-cookie-compliance-more-button\u0022\u003E\u041f\u043e\u0434\u0440\u043e\u0431\u043d\u0435\u0435\u003C\/button\u003E\n          \u003C\/div\u003E\n\n    \n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n            \u003Cbutton type=\u0022button\u0022 class=\u0022agree-button eu-cookie-compliance-secondary-button\u0022\u003E\u041f\u0440\u0438\u043d\u044f\u0442\u044c\u003C\/button\u003E\n              \u003Cbutton type=\u0022button\u0022 class=\u0022decline-button eu-cookie-compliance-default-button\u0022\u003E\u041e\u0442\u043a\u0430\u0437\u0430\u0442\u044c\u0441\u044f\u003C\/button\u003E\n          \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","mobile_breakpoint":768,"popup_html_agreed":false,"popup_use_bare_css":false,"popup_height":"auto","popup_width":"100%","popup_delay":1000,"popup_link":"\/index.php\/cookies","popup_link_new_window":true,"popup_position":false,"fixed_top_position":true,"popup_language":"ru","store_consent":false,"better_support_for_screen_readers":false,"cookie_name":"","reload_page":false,"domain":"","domain_all_sites":false,"popup_eu_only":false,"popup_eu_only_js":false,"cookie_lifetime":100,"cookie_session":0,"set_cookie_session_zero_on_disagree":0,"disagree_do_not_show_popup":false,"method":"opt_in","automatic_cookies_removal":true,"allowed_cookies":"","withdraw_markup":"\u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-tab\u0022\u003E\u041d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438\u003C\/button\u003E\n\u003Cdiv aria-labelledby=\u0022popup-text\u0022 class=\u0022eu-cookie-withdraw-banner\u0022\u003E\n  \u003Cdiv class=\u0022popup-content info eu-cookie-compliance-content\u0022\u003E\n    \u003Cdiv id=\u0022popup-text\u0022 class=\u0022eu-cookie-compliance-message\u0022 role=\u0022document\u0022\u003E\n      \u003Cp class=\u0022text-align-justify\u0022\u003E\u041c\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c \u0444\u0430\u0439\u043b\u044b cookie \u043d\u0430 \u043d\u0430\u0448\u0435\u043c \u0441\u0430\u0439\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u0443\u043b\u0443\u0447\u0448\u0430\u0442\u044c \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u043e \u0432\u0437\u0430\u0438\u043c\u043e\u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441 \u043d\u0430\u0448\u0438\u043c \u0441\u0430\u0439\u0442\u043e\u043c. \u041d\u0430\u0441\u0442\u043e\u044f\u0449\u0430\u044f \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0430 \u043e\u043f\u0438\u0441\u044b\u0432\u0430\u0435\u0442 \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0445 \u043d\u0430\u043c\u0438 \u0444\u0430\u0439\u043b\u043e\u0432 cookie, \u0438\u0445 \u043d\u0430\u0437\u043d\u0430\u0447\u0435\u043d\u0438\u0435 \u0438 \u0442\u043e, \u043a\u0430\u043a \u0432\u044b \u043c\u043e\u0436\u0435\u0442\u0435 \u0438\u0437\u043c\u0435\u043d\u0438\u0442\u044c \u0441\u0432\u043e\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0427\u0442\u043e \u0442\u0430\u043a\u043e\u0435 \u0444\u0430\u0439\u043b\u044b cookie?\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0424\u0430\u0439\u043b\u044b cookie \u2014 \u044d\u0442\u043e \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u044b \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0441\u043e\u0445\u0440\u0430\u043d\u044f\u044e\u0442\u0441\u044f \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u043e\u043c \u043d\u0430 \u0436\u0435\u0441\u0442\u043a\u043e\u043c \u0434\u0438\u0441\u043a\u0435 \u043a\u043e\u043c\u043f\u044c\u044e\u0442\u0435\u0440\u0430. \u041a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437, \u043a\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e \u043f\u043e\u0441\u0435\u0449\u0430\u0435\u0442\u0435 \u043d\u0430\u0448 \u0441\u0430\u0439\u0442, \u0432\u0430\u0448 \u0431\u0440\u0430\u0443\u0437\u0435\u0440 \u043f\u043e\u0441\u044b\u043b\u0430\u0435\u0442 \u043d\u0430\u043c \u044d\u0442\u0438 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u044b \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438, \u0447\u0442\u043e\u0431\u044b \u043c\u044b \u043c\u043e\u0433\u043b\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0438\u0442\u044c \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441 \u043f\u043e\u0434 \u0432\u0430\u0448\u0438 \u0438\u043d\u0442\u0435\u0440\u0435\u0441\u044b \u0438 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0442\u0435\u043d\u0438\u044f \u0438\u043b\u0438 \u0436\u0435 \u0447\u0442\u043e\u0431\u044b \u043e\u0431\u043b\u0435\u0433\u0447\u0438\u0442\u044c \u043f\u0440\u043e\u0446\u0435\u0441\u0441 \u0432\u0445\u043e\u0434\u0430 \u0432 \u0443\u0447\u0435\u0442\u043d\u0443\u044e \u0437\u0430\u043f\u0438\u0441\u044c.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041a\u0430\u043a\u0438\u0435 \u0444\u0430\u0439\u043b\u044b cookie \u043c\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c?\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c\u044b\u0435 \u043d\u0430\u043c\u0438 \u0444\u0430\u0439\u043b\u044b cookie \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u0443\u0437\u043d\u0430\u0432\u0430\u0442\u044c \u0442\u0435\u0445, \u043a\u0442\u043e \u043f\u043e\u0441\u0435\u0449\u0430\u0435\u0442 \u043d\u0430\u0448 \u0441\u0430\u0439\u0442 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e, \u0431\u043b\u0430\u0433\u043e\u0434\u0430\u0440\u044f \u0447\u0435\u043c\u0443 \u0438\u043c \u043d\u0435 \u0442\u0440\u0435\u0431\u0443\u0435\u0442\u0441\u044f \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437 \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u043e\u0434\u043d\u0443 \u0438 \u0442\u0443 \u0436\u0435 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044e. \u042d\u0442\u0438 \u0444\u0430\u0439\u043b\u044b \u0442\u0430\u043a\u0436\u0435 \u0441\u043b\u0443\u0436\u0430\u0442 \u0434\u043b\u044f \u043e\u0442\u0441\u043b\u0435\u0436\u0438\u0432\u0430\u043d\u0438\u044f \u043c\u043e\u0434\u0435\u043b\u0435\u0439 \u0442\u0440\u0430\u0444\u0438\u043a\u0430 \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435\u043b\u0435\u0439 \u043f\u043e \u0441\u0430\u0439\u0442\u0443, \u0447\u0442\u043e \u043f\u043e\u043c\u043e\u0433\u0430\u0435\u0442 \u043f\u043e\u0432\u044b\u0448\u0430\u0442\u044c \u0435\u0433\u043e \u0443\u0434\u043e\u0431\u0441\u0442\u0432\u043e.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041d\u0438\u0436\u0435 \u043e\u043f\u0438\u0441\u0430\u043d\u044b \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0432\u0438\u0434\u044b \u0444\u0430\u0439\u043b\u043e\u0432 cookie, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u043d\u0430 \u043d\u0430\u0448\u0435\u043c \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0435.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b cookie\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b cookie \u043f\u043e\u043c\u043e\u0433\u0430\u044e\u0442 \u043d\u0430\u043c \u043f\u0440\u0435\u0434\u043e\u0441\u0442\u0430\u0432\u043b\u044f\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c \u0443\u0441\u043b\u0443\u0433\u0438, \u0437\u0430\u043f\u0440\u0430\u0448\u0438\u0432\u0430\u0435\u043c\u044b\u0435 \u0447\u0435\u0440\u0435\u0437 \u043d\u0430\u0448 \u0441\u0430\u0439\u0442. \u0411\u0435\u0437 \u0442\u0430\u043a\u0438\u0445 \u0444\u0430\u0439\u043b\u043e\u0432 cookie \u044d\u0442\u043e \u0431\u044b\u043b\u043e \u0431\u044b \u043d\u0435\u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b cookie \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442:\u003C\/p\u003E\u003Cul\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0437\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c \u043f\u043e\u0441\u0435\u0442\u0438\u0442\u0435\u043b\u0435\u0439 \u0441\u0430\u0439\u0442\u0430;\u003C\/li\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u0442\u044c \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0441\u0435\u0440\u0432\u0438\u0441\u0430\u043c \u043d\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430, \u0434\u043e\u0441\u0442\u0443\u043f\u043d\u044b\u043c \u0442\u043e\u043b\u044c\u043a\u043e \u0430\u0432\u0442\u043e\u0440\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u043d\u043d\u044b\u043c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f\u043c, \u0431\u0435\u0437 \u043d\u0435\u043e\u0431\u0445\u043e\u0434\u0438\u043c\u043e\u0441\u0442\u0438 \u043f\u043e\u0432\u0442\u043e\u0440\u043d\u043e\u0433\u043e \u0432\u0432\u043e\u0434\u0430 \u0434\u0430\u043d\u043d\u044b\u0445 \u0432\u0430\u0448\u0435\u0439 \u0443\u0447\u0435\u0442\u043d\u043e\u0439 \u0437\u0430\u043f\u0438\u0441\u0438;\u003C\/li\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0437\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c \u0432\u0430\u0448\u0438 \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u0435 \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f (\u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0437\u0430\u043f\u043e\u043b\u043d\u0435\u043d\u0438\u0435 \u043e\u043d\u043b\u0430\u0439\u043d-\u0444\u043e\u0440\u043c) \u043f\u0440\u0438 \u0432\u043e\u0437\u0432\u0440\u0430\u0449\u0435\u043d\u0438\u0438 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0443 \u0432 \u0440\u0430\u043c\u043a\u0430\u0445 \u043e\u0434\u043d\u043e\u0439 \u0438 \u0442\u043e\u0439 \u0436\u0435 \u0441\u0435\u0441\u0441\u0438\u0438.\u003C\/li\u003E\u003C\/ul\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0424\u0430\u0439\u043b\u044b \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 cookie\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0424\u0430\u0439\u043b\u044b \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 cookie \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442\u0441\u044f \u0434\u043b\u044f \u0441\u0431\u043e\u0440\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0438 \u043e \u0440\u0430\u0431\u043e\u0442\u0435 \u043d\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0434\u043b\u044f \u043e\u043f\u043e\u0432\u0435\u0449\u0435\u043d\u0438\u044f \u043e\u0431 \u043e\u0448\u0438\u0431\u043a\u0430\u0445. \u042d\u0442\u0438 \u0444\u0430\u0439\u043b\u044b cookie \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u043f\u043e\u043b\u0443\u0447\u0430\u0442\u044c \u043f\u043e\u0434\u0440\u043e\u0431\u043d\u044b\u0435 \u0442\u0435\u0445\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0435 \u0434\u0430\u043d\u043d\u044b\u0435, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f \u043e \u043f\u043e\u0441\u043b\u0435\u0434\u043d\u0435\u0439 \u043f\u043e\u0441\u0435\u0449\u0435\u043d\u043d\u043e\u0439 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435, \u0447\u0438\u0441\u043b\u0435 \u043f\u043e\u0441\u0435\u0449\u0435\u043d\u043d\u044b\u0445 \u0441\u0442\u0440\u0430\u043d\u0438\u0446, \u0432\u044b\u0431\u0440\u0430\u043d\u043d\u044b\u0445 \u0444\u0440\u0430\u0433\u043c\u0435\u043d\u0442\u0430\u0445 \u043d\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u0438 \u0442. \u043f. \u0422\u0430\u043a \u043a\u0430\u043a \u044d\u0442\u0430 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u0441\u0432\u044f\u0437\u0430\u043d\u0430 \u0441\u043e \u0441\u0432\u0435\u0434\u0435\u043d\u0438\u044f\u043c\u0438 \u043e \u0432\u0430\u0448\u0435\u043c IP-\u0430\u0434\u0440\u0435\u0441\u0435, \u0434\u043e\u043c\u0435\u043d\u0435 \u0438 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u0435, \u043e\u043d\u0430 \u0438\u0437\u0443\u0447\u0430\u0435\u0442\u0441\u044f \u0442\u043e\u043b\u044c\u043a\u043e \u0432 \u0441\u043e\u0447\u0435\u0442\u0430\u043d\u0438\u0438 \u0441 \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u0435\u0439 \u043e\u0442 \u0434\u0440\u0443\u0433\u0438\u0445 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u0435\u0439 \u0438 \u043d\u0435 \u0443\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442 \u043f\u0440\u044f\u043c\u043e \u043d\u0430 \u0432\u0430\u0441.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0444\u0430\u0439\u043b\u044b \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u0438 cookie \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442:\u003C\/p\u003E\u003Cul\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0438\u0437\u0443\u0447\u0430\u0442\u044c \u0438 \u0443\u043b\u0443\u0447\u0448\u0430\u0442\u044c \u043f\u0440\u043e\u0438\u0437\u0432\u043e\u0434\u0438\u0442\u0435\u043b\u044c\u043d\u043e\u0441\u0442\u044c \u0438 \u0432\u043d\u0435\u0448\u043d\u0438\u0439 \u0432\u0438\u0434 \u043d\u0430\u0448\u0435\u0433\u043e \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0430;\u003C\/li\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0430\u043d\u0430\u043b\u0438\u0437\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043e\u0448\u0438\u0431\u043a\u0438, \u0432\u043e\u0437\u043d\u0438\u043a\u0430\u044e\u0449\u0438\u0435 \u043d\u0430 \u043d\u0430\u0448\u0435\u043c \u0441\u0430\u0439\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u0441\u043d\u0438\u0436\u0430\u0442\u044c \u043a\u043e\u043b\u0438\u0447\u0435\u0441\u0442\u0432\u043e \u0436\u0430\u043b\u043e\u0431 \u043e\u0442\u043d\u043e\u0441\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043a\u0430\u0447\u0435\u0441\u0442\u0432\u0430 \u043d\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430 \u0438 \u0441\u0438\u0441\u0442\u0435\u043c\u044b \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0438\u044f.\u003C\/li\u003E\u003C\/ul\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cbr \/\u003E\u0424\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b cookie\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041c\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0435\u043c \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b cookie, \u043a\u043e\u0442\u043e\u0440\u044b\u0435 \u043d\u0435 \u044f\u0432\u043b\u044f\u044e\u0442\u0441\u044f \u043e\u0441\u043d\u043e\u0432\u043d\u044b\u043c\u0438, \u043e\u0434\u043d\u0430\u043a\u043e \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044e\u0442 \u0440\u0430\u0431\u043e\u0442\u0443 \u043f\u043e\u043b\u0435\u0437\u043d\u044b\u0445 \u0444\u0443\u043d\u043a\u0446\u0438\u0439 \u043d\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430. \u041d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0435 \u0444\u0430\u0439\u043b\u044b cookie \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442:\u003C\/p\u003E\u003Cul\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0437\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c \u0432\u0430\u0448\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043f\u043e \u043f\u0440\u0435\u0434\u044b\u0434\u0443\u0449\u0438\u043c \u043f\u043e\u0441\u0435\u0449\u0435\u043d\u0438\u044f\u043c \u043d\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0438\u0442\u0430\u0435\u043c\u043e\u0435 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u0435 \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430 (\u0442\u0435\u043c\u0430 \u043e\u0444\u043e\u0440\u043c\u043b\u0435\u043d\u0438\u044f, \u0440\u0430\u0437\u043c\u0435\u0440 \u0448\u0440\u0438\u0444\u0442\u0430, \u0446\u0432\u0435\u0442\u0430 \u0438 \u0442. \u0434.), \u0447\u0442\u043e\u0431\u044b \u0432\u0430\u043c \u043d\u0435 \u043f\u0440\u0438\u0445\u043e\u0434\u0438\u043b\u043e\u0441\u044c \u0432\u0432\u043e\u0434\u0438\u0442\u044c \u0438\u0445 \u0441\u043d\u043e\u0432\u0430;\u003C\/li\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0437\u0430\u043f\u043e\u043c\u0438\u043d\u0430\u0442\u044c \u0432\u0430\u0448\u0438 \u043e\u0442\u0432\u0435\u0442\u044b \u043d\u0430 \u0432\u043e\u043f\u0440\u043e\u0441\u044b \u043d\u0430 \u043d\u0430\u0448\u0435\u043c \u0432\u0435\u0431-\u0441\u0430\u0439\u0442\u0435, \u0447\u0442\u043e\u0431\u044b \u043d\u0435 \u0437\u0430\u0434\u0430\u0432\u0430\u0442\u044c \u0432\u0430\u043c \u0438\u0445 \u043a\u0430\u0436\u0434\u044b\u0439 \u0440\u0430\u0437.\u003C\/li\u003E\u003C\/ul\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u003Cbr \/\u003E\u0424\u0430\u0439\u043b\u044b cookie \u0442\u0440\u0435\u0442\u044c\u0438\u0445 \u0441\u0442\u043e\u0440\u043e\u043d\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0412\u0430\u0448\u0430 \u0440\u0430\u0431\u043e\u0442\u0430 \u0441 \u043d\u0430\u0448\u0438\u043c \u0441\u0430\u0439\u0442\u043e\u043c \u043c\u043e\u0436\u0435\u0442 \u043f\u0440\u0438\u0432\u043e\u0434\u0438\u0442\u044c \u043a \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u044e \u043d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0445 \u0444\u0430\u0439\u043b\u043e\u0432 cookie, \u043a\u043e\u0442\u043e\u0440\u043e\u0435 \u043d\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u0442\u0441\u044f \u043d\u0430\u043c\u0438. \u042d\u0442\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u0432 \u0441\u043b\u0443\u0447\u0430\u044f\u0445, \u043a\u043e\u0433\u0434\u0430 \u043d\u0430 \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0435, \u043a\u043e\u0442\u043e\u0440\u0443\u044e \u0432\u044b \u043f\u043e\u0441\u0435\u0449\u0430\u0435\u0442\u0435, \u043e\u0442\u043e\u0431\u0440\u0430\u0436\u0430\u0435\u0442\u0441\u044f \u0441\u043e\u0434\u0435\u0440\u0436\u0438\u043c\u043e\u0435 \u0441\u0430\u0439\u0442\u043e\u0432 \u0442\u0440\u0435\u0442\u044c\u0438\u0445 \u0441\u0442\u043e\u0440\u043e\u043d. \u0422\u043e\u0433\u0434\u0430 \u0432\u044b \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0435 \u0441\u043e\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0443\u044e\u0449\u0438\u0435 \u0444\u0430\u0439\u043b\u044b cookie \u0442\u0440\u0435\u0442\u044c\u0438\u0445 \u0441\u0442\u043e\u0440\u043e\u043d.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0424\u0430\u0439\u043b\u044b cookie \u0442\u0440\u0435\u0442\u044c\u0438\u0445 \u0441\u0442\u043e\u0440\u043e\u043d \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u043f\u043e\u043b\u0443\u0447\u0435\u043d\u044b \u043e\u0442 \u0441\u043b\u0435\u0434\u0443\u044e\u0449\u0438\u0445 \u0441\u043b\u0443\u0436\u0431:\u003C\/p\u003E\u003Cul\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0421\u043e\u0446\u0438\u0430\u043b\u044c\u043d\u044b\u0435 \u0441\u0435\u0442\u0438, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440 Facebook, YouTube;\u003C\/li\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0421\u0435\u0440\u0432\u0438\u0441\u044b \u0441\u0431\u043e\u0440\u0430 \u0441\u0442\u0430\u0442\u0438\u0441\u0442\u0438\u043a\u0438, \u043d\u0430\u043f\u0440\u0438\u043c\u0435\u0440, \u0421\u043f\u0443\u0442\u043d\u0438\u043a \u0438 Google Analytics;\u003C\/li\u003E\t\u003Cli class=\u0022text-align-justify\u0022\u003E\u0414\u0440\u0443\u0433\u0438\u0435 \u0434\u043e\u0432\u0435\u0440\u0435\u043d\u043d\u044b\u0435 \u0441\u0435\u0440\u0432\u0438\u0441\u044b, \u043e\u0431\u0435\u0441\u043f\u0435\u0447\u0438\u0432\u0430\u044e\u0449\u0438\u0435 \u0444\u0443\u043d\u043a\u0446\u0438\u043e\u043d\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0435 \u043d\u0430\u0448\u0435\u0433\u043e \u0441\u0430\u0439\u0442\u0430.\u003C\/li\u003E\u003C\/ul\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041c\u044b \u043d\u0435 \u043a\u043e\u043d\u0442\u0440\u043e\u043b\u0438\u0440\u0443\u0435\u043c \u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0442\u0430\u043a\u0438\u0445 \u0444\u0430\u0439\u043b\u043e\u0432 cookie \u0438 \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u043d\u0438\u043c. \u0427\u0442\u043e\u0431\u044b \u0443\u0437\u043d\u0430\u0442\u044c, \u043a\u0430\u043a \u044d\u0442\u0438 \u0441\u043b\u0443\u0436\u0431\u044b \u0438\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u044e\u0442 \u0444\u0430\u0439\u043b\u044b cookie, \u0432\u0430\u043c \u0441\u043b\u0435\u0434\u0443\u0435\u0442 \u043e\u0431\u0440\u0430\u0442\u0438\u0442\u044c\u0441\u044f \u043a \u0438\u0445 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0435 \u043a\u043e\u043d\u0444\u0438\u0434\u0435\u043d\u0446\u0438\u0430\u043b\u044c\u043d\u043e\u0441\u0442\u0438 \u0438 \u043f\u043e\u043b\u0438\u0442\u0438\u043a\u0435 \u0432 \u043e\u0442\u043d\u043e\u0448\u0435\u043d\u0438\u0438 \u0444\u0430\u0439\u043b\u043e\u0432 cookie.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0418\u0437\u043c\u0435\u043d\u0435\u043d\u0438\u0435 \u043d\u0430\u0441\u0442\u0440\u043e\u0435\u043a \u0434\u043b\u044f \u0444\u0430\u0439\u043b\u043e\u0432 cookie\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u041f\u043e\u0447\u0442\u0438 \u0432\u0441\u0435 \u0431\u0440\u0430\u0443\u0437\u0435\u0440\u044b \u043f\u043e\u0437\u0432\u043e\u043b\u044f\u044e\u0442 \u0443\u0434\u0430\u043b\u044f\u0442\u044c \u0444\u0430\u0439\u043b\u044b cookie, \u0440\u0430\u0441\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u043d\u044b\u0435 \u043d\u0430 \u0436\u0435\u0441\u0442\u043a\u043e\u043c \u0434\u0438\u0441\u043a\u0435, \u0437\u0430\u043f\u0440\u0435\u0449\u0430\u0442\u044c \u0438\u0445 \u0441\u043e\u0437\u0434\u0430\u043d\u0438\u0435 \u043b\u0438\u0431\u043e \u0443\u0432\u0435\u0434\u043e\u043c\u043b\u044f\u0442\u044c \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f \u043f\u0435\u0440\u0435\u0434 \u0438\u0445 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435\u043c.\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0427\u0442\u043e \u043f\u0440\u043e\u0438\u0441\u0445\u043e\u0434\u0438\u0442 \u043f\u0440\u0438 \u043e\u0442\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0438 \u0444\u0430\u0439\u043b\u043e\u0432 cookie?\u003C\/p\u003E\u003Cp class=\u0022text-align-justify\u0022\u003E\u0412 \u0441\u043b\u0443\u0447\u0430\u0435 \u0437\u0430\u043f\u0440\u0435\u0442\u0430 \u043d\u0430 \u0441\u043e\u0445\u0440\u0430\u043d\u0435\u043d\u0438\u0435 \u0438\u043b\u0438 \u043f\u0440\u0438 \u0443\u0434\u0430\u043b\u0435\u043d\u0438\u0438 \u0444\u0430\u0439\u043b\u043e\u0432 cookie \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u043f\u0430\u0440\u0430\u043c\u0435\u0442\u0440\u0430\u043c\u0438 \u0438 \u043f\u0440\u0435\u0434\u043f\u043e\u0447\u0442\u0435\u043d\u0438\u044f\u043c\u0438 \u043f\u043e\u043b\u044c\u0437\u043e\u0432\u0430\u0442\u0435\u043b\u044f, \u0430 \u0442\u0430\u043a\u0436\u0435 \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u043e\u0441\u0442\u0438 \u043d\u0430\u0441\u0442\u0440\u043e\u0439\u043a\u0438 \u043f\u0435\u0440\u0441\u043e\u043d\u0430\u043b\u044c\u043d\u043e\u0433\u043e \u0438\u043d\u0442\u0435\u0440\u0444\u0435\u0439\u0441\u0430 \u043c\u043e\u0433\u0443\u0442 \u0431\u044b\u0442\u044c \u0437\u043d\u0430\u0447\u0438\u0442\u0435\u043b\u044c\u043d\u043e \u043e\u0433\u0440\u0430\u043d\u0438\u0447\u0435\u043d\u044b.\u003C\/p\u003E\n    \u003C\/div\u003E\n    \u003Cdiv id=\u0022popup-buttons\u0022 class=\u0022eu-cookie-compliance-buttons\u0022\u003E\n      \u003Cbutton type=\u0022button\u0022 class=\u0022eu-cookie-withdraw-button \u0022\u003E\u041e\u0442\u043e\u0437\u0432\u0430\u0442\u044c \u0441\u043e\u0433\u043b\u0430\u0441\u0438\u0435\u003C\/button\u003E\n    \u003C\/div\u003E\n  \u003C\/div\u003E\n\u003C\/div\u003E","withdraw_enabled":false,"reload_options":0,"reload_routes_list":"","withdraw_button_on_info_popup":false,"cookie_categories":[],"cookie_categories_details":[],"enable_save_preferences_button":true,"cookie_value_disagreed":"0","cookie_value_agreed_show_thank_you":"1","cookie_value_agreed":"2","containing_element":"body","settings_tab_enabled":false,"olivero_primary_button_classes":"","olivero_secondary_button_classes":"","close_button_action":"close_banner","open_by_default":false,"modules_allow_popup":true,"hide_the_banner":true,"geoip_match":true},"superfish":{"superfish-account":{"id":"superfish-account","sf":{"animation":{"opacity":"show","width":"show"},"speed":"fast","autoArrows":false},"plugins":{"touchscreen":{"mode":"window_width","breakpoint":1000},"smallscreen":{"mode":"window_width","breakpoint":100,"expandText":"\u0420\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c","collapseText":"\u0421\u0432\u0435\u0440\u043d\u0443\u0442\u044c","title":"User account menu"},"supposition":true,"supersubs":true}},"superfish-main":{"id":"superfish-main","sf":{"animation":{"opacity":"show","width":"show"},"speed":"fast","autoArrows":false},"plugins":{"touchscreen":{"mode":"window_width","breakpoint":1000},"smallscreen":{"mode":"window_width","breakpoint":100,"expandText":"\u0420\u0430\u0437\u0432\u0435\u0440\u043d\u0443\u0442\u044c","collapseText":"\u0421\u0432\u0435\u0440\u043d\u0443\u0442\u044c","title":"\u0413\u043b\u0430\u0432\u043d\u043e\u0435 \u043c\u0435\u043d\u044e"},"supposition":true,"supersubs":true}}},"TBMegaMenu":{"TBElementsCounter":{"column":31},"theme":"mogp"},"user":{"uid":0,"permissionsHash":"389ba5dffaa382c32846b5cdf260d60ac1d6107f301b9a69cc8ae677dcbbec41"}}</script>
+<script src="/sites/default/files/js/js_tsV0pBVoLM2xLBGaH3a4ZaQvu28CkLe2I_anKcSKkKM.js"></script>
+<script src="/modules/contrib/eu_cookie_compliance/js/eu_cookie_compliance.min.js?v=9.4.3" defer></script>
+<script src="/sites/default/files/js/js_2F9M95jEFisvUogPikCo20AM12SkWMjxFKY0hE7zDaI.js"></script>
+
+	<script src="js/jquery-3.4.1.min.js"></script>
+    <script src="js/jquery.cookie.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="dist/slick/slick.min.js"></script>
+    <script src="js/script.js" ></script>
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<script src="/bvi/js/js.cookie.js"></script>
+	<script src="/bvi/js/bvi-init.js"></script>
+	<script src="/bvi/dist/js/bvi.min.js"></script>
+	
+	<script src="/bvi/dist/js/bvi.js"></script>
+<script>
+  new isvek.Bvi({
+    target: '.bvi-open',
+    fontSize: 14,
+  })
+</script>
+  </body>
+</html>

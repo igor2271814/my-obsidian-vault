@@ -1,0 +1,41 @@
+ class="settings-tray-editable block block-system block-system-breadcrumb-block" data-drupal-settingstray="editable">
+  
+    
+        <nav class="breadcrumb" role="navigation" aria-labelledby="system-breadcrumb">
+    <h2 id="system-breadcrumb" class="visually-hidden">Строка навигации</h2>
+    <div class="two-page-name">
+          <div class="two-page-name-item">
+                  <a href="/">Главная</a>
+              </div>
+        </div>
+  </nav>
+
+  </div>
+<div id="block-mogp-page-title" class="block block-core block-page-title-block">
+  
+    
+      
+                    <div class="two-block">
+                        <p class="two-title">Страница не найдена</p>
+					</div>
+
+
+  </div>
+<div data-drupal-messages-fallback class="hidden"></div>
+
+  </div>
+
+                    	</div>
+					<!-- End: Breadcrumb -->
+<!-- Start: Slider -->
+                    <!-- slider   -->						
+                                            <!-- slider -->
+<!-- End: Slider -->
+                    <!-- блок для адаптива -->
+                    	<div class="n-block">
+                        	<!-- Главные новости -->
+                        		                        	<!-- Главные новости -->
+                    	</div>
+                    <!-- блок для адаптива -->
+<!-- Start: Main Blocks -->				
+	<!-- End: Main Blocks -
