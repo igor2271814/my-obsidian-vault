@@ -1,0 +1,21 @@
+ie.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="dist/slick/slick.min.js"></script>
+    <script src="js/script.js" ></script>
+	<script src="https://code.jquery.com/jquery-1.12.4.min.js"></script>
+	<script src="/bvi/js/js.cookie.js"></script>
+	<script src="/bvi/js/bvi-init.js"></script>
+	<script src="/bvi/dist/js/bvi.min.js"></script>
+	
+	<script src="/bvi/dist/js/bvi.js"></script>
+<script>
+  new isvek.Bvi({
+    target: '.bvi-open',
+    fontSize: 14,
+  })
+</script>
+  </body>
+</html>
+
+0
+

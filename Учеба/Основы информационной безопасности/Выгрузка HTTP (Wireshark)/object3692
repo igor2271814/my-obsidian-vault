@@ -1,0 +1,26 @@
+--main">
+        <a href="/index.php/polls" title="Опросы" data-drupal-link-system-path="polls">Опросы</a>
+              </li>
+                <li class="menu-item--fe15bbb3-de0e-44ac-9a6e-dd4f383531fa menu-name--main">
+        <a href="/index.php/activity" data-drupal-link-system-path="activity">Последние материалы</a>
+                                <ul>
+                    <li class="menu-item--viewsactivity-advancedpage-1 menu-name--main">
+        <a href="/index.php/activity/advanced" data-drupal-link-system-path="activity/advanced">Последние материалы (расширенное представление)</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--viewsnovosti-ot-primorsky-ru-feedpage-1 menu-name--main">
+        <a href="/index.php/news/primorsky_ru" title="Новости от primorsky.ru" data-drupal-link-system-path="news/primorsky_ru">Новости от primorsky.ru</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--_0dea0df-8f4b-464a-b75d-67c7965cbe51 menu-name--main">
+        <a href="/index.php/socialsphere/svo" title="Помощь участникам СВО и членам их семей" data-drupal-link-system-path="node/15949">СВО</a>
+              </li>
+        </ul>
+  
+
+</div></div>
+    <script type="application/json" 

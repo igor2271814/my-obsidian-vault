@@ -1,0 +1,29 @@
+r-blue vision-item-btn">
+                                
+                            </div>
+                        </div>
+                        <div class="vision-font vision-item">
+                            <div class="vision-font-un vision-item-btn active">
+                                Без засечек
+                            </div>
+                            <div class="vision-font-in vision-item-btn">
+                                С засечками
+                            </div>
+
+                        </div>
+                        <div class="vision-leter vision-item">
+                            <div class="vision-leter-small vision-item-btn active">
+                                Стандартный <br> интервал
+                            </div>
+                            <div class="vision-leter-normal vision-item-btn">
+                                Средний <br> интервал
+                            </div>
+                            <div class="vision-leter-big vision-item-btn">
+                                Большой <br> интервал
+                            </div>
+                        </div>
+                        <div class="vision-hide">
+                            <a href="#">Обычная версия сайта</a>
+                        </div>
+                    </div>
+                </div

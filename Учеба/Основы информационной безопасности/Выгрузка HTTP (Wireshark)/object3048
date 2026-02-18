@@ -1,0 +1,34 @@
+-->
+  
+  
+  <body class="fontyourface path-user">
+          <a href="#main-content" class="visually-hidden focusable skip-link">
+       Перейти к основному содержанию
+     </a>
+
+    
+      <div class="dialog-off-canvas-main-canvas" data-off-canvas-main-canvas>
+        <section class="vision">
+        <div class="container">
+            <div class="row">
+                <div class="col-12">
+                    <div class="vision-block">
+                        <div class="vision-font vision-item">
+                            <div class="vision-font-small vision-item-btn active">
+                                A
+                            </div>
+                            <div class="vision-font-normal vision-item-btn">
+                                A
+                            </div>
+                            <div class="vision-font-big vision-item-btn">
+                                A
+                            </div>
+                        </div>
+                        <div class="vision-color vision-item">
+                            <div class="vision-color-white vision-item-btn active">
+                                
+                            </div>
+                            <div class="vision-color-black vision-item-btn">
+                                
+                            </div>
+                            <div class="vision-colo

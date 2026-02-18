@@ -1,0 +1,23 @@
+       </div>
+    </footer>
+<!-- End: Footer -->
+  </div>
+
+    <div class="off-canvas-wrapper"><div id="off-canvas">
+              <ul>
+                    <li class="menu-item--front-page menu-name--main">
+        <a href="/index.php/" data-drupal-link-system-path="&lt;front&gt;">Главная</a>
+                                <ul>
+                    <li class="menu-item--df26d46b-3626-414c-962f-c580bab71ba1 menu-name--main">
+        <a href="http://mail.partizansk.org/">Электронная почта</a>
+              </li>
+                <li class="menu-item--_4901826-33c2-45db-9a2b-c950041e895f menu-name--main">
+        <a href="/index.php/administration/struktura/upravleniya/fu/mestnye_nalogi" data-drupal-link-system-path="node/390">Местные налоги</a>
+              </li>
+                <li class="menu-item--b7bc2cbc-f5b5-43d5-87b1-1bfa2749198d menu-name--main">
+        <a href="/index.php/gragdanskaya_oborona" data-drupal-link-system-path="node/14">Гражданская оборона</a>
+              </li>
+                <li class="menu-item--_e4d5efc-fce3-477a-bee4-3c6ad76470c7 menu-name--main">
+        <a href="/index.php/autobus" title="Расписание движения городских автобусов" data-drupal-link-system-path="node/85">Расписание автобусов</a>
+              </li>
+                <li class="menu-item--_2f9c

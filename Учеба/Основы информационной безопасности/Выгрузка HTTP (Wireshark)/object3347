@@ -1,0 +1,35 @@
+k-mogp-searchform" role="search" data-drupal-settingstray="editable">
+<div class=" d-flex flex-row justify-content-between">
+  
+    
+      <form action="/index.php/search/node" method="get" id="search-block-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-search form-type-search js-form-item-keys form-item-keys form-no-label">
+      <label for="edit-keys" class="visually-hidden">Поиск</label>
+        <input title="Введите ключевые слова для поиска." data-drupal-selector="edit-keys" class="form-autocomplete form-search" data-key="search_block" type="search" id="edit-keys" name="keys" value="" size="15" maxlength="128" />
+
+        </div>
+<div data-drupal-selector="edit-actions" class="form-actions js-form-wrapper form-wrapper" id="edit-actions"><input data-drupal-selector="edit-submit" type="submit" id="edit-submit" value="Поиск" class="button js-form-submit form-submit" />
+</div>
+
+</form>
+
+  </div>
+</div>
+
+  </div>
+
+													</div>
+					</div>
+                </div>
+            </div>
+		</div>
+     </div>
+<!-- End: Menu -->
+    <section class="one">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-9 col-12">
+<!-- Start: Breadcrumb -->
+					                    	<div class="two-page-name">
+							  <div class="region region-breadcrumb">
+    <div id="block-mogp-breadcrumbs"

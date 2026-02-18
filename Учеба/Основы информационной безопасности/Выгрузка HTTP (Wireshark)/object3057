@@ -1,0 +1,16 @@
+  }
+</style>
+<div  class="tb-megamenu tb-megamenu-main style-blue animate fading" data-duration="400" data-delay="200" id="tb-megamenu-main" role="navigation" aria-label="Главное меню">
+      <button data-target=".nav-collapse" data-toggle="collapse" class="btn btn-navbar tb-megamenu-button" type="button">
+      <i class="fa fa-reorder"></i>
+    </button>
+    <div class="nav-collapse  always-show">
+    <ul  class="tb-megamenu-nav nav level-0 items-8" role="list" >
+        <li  class="tb-megamenu-item level-1 mega dropdown" data-id="standard.front_page" data-level="1" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="1" >
+      <a href="/"  class="dropdown-toggle" aria-expanded="false">
+          Главная
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-dropdown-inner">
+          <div  class="tb-megamenu-row row-fluid">
+      <div  class="tb-megamenu-column span12 mega-col-nav" data-class="" data-width="12" data-hidewcol="0" id="tb-megamenu-column-1">

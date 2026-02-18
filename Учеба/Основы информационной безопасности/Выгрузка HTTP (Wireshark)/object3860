@@ -1,0 +1,27 @@
+div>
+						            	    <!-- меню для адаптива -->
+                </div>
+<!-- Start: Sidebar -->
+                <div class="col-lg-3 col-12 n-none">
+					                <!-- новости -->
+				<!-- организации -->
+					                <!-- организации -->
+                <!-- меню -->
+											  <div class="region region-sidebar-first-menu">
+    <div id="block-mogp-useraccountmenu" class="settings-tray-editable block block-superfish block-superfishaccount" data-drupal-settingstray="editable">
+  
+    
+      
+<ul id="superfish-account" class="menu sf-menu sf-account sf-vertical sf-style-white right-list">
+  
+<li id="account-userlogout" class="sf-depth-1 right-list-item sf-no-children"><a href="/index.php/user/login" class="sf-depth-1 title">Войти</a></li>
+</ul>
+
+  </div>
+<div id="block-mogp-vkhodnasayt-4" class="settings-tray-editable block block-user block-user-login-block" data-drupal-settingstray="editable" role="form">
+  
+    
+      <form class="user-login-form pwd-see" data-drupal-selector="user-login-form" action="/system/404?destination=/" method="post" id="user-login-form" accept-charset="UTF-8">
+  <div class="js-form-item form-item js-form-type-textfield form-type-textfield js-form-item-name form-item-name">
+      <label for="edit-name" class="js-form-required form-required">Email или логин</label>
+        <input aut

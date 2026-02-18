@@ -1,0 +1,19 @@
+      <a href="/information/history"  title="Историческая справка о городе Партизанске">
+          Историческая справка
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega" data-id="menu_link_content:9ff4815c-7147-4150-9a33-d71fd2ad3319" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/pochet" >
+          Почётные жители
+          </a>
+  
+</li>
+
+        <li  class="tb-megamenu-item level-2 mega dropdown-submenu" data-id="menu_link_content:f4585be9-1e1b-47ee-86fa-337c74f8ae44" data-level="2" data-type="menu_item" data-class="" data-xicon="" data-caption="" data-alignsub="" data-group="0" data-hidewcol="0" data-hidesub="0" data-label="" aria-level="2" >
+      <a href="/information/fotogalereya"  class="dropdown-toggle" aria-expanded="false">
+          Фотогалерея
+          </a>
+  <div  class="tb-megamenu-submenu dropdown-menu mega-dropdown-menu nav-child" data-class="" data-width="" role="list">
+  <div class="mega-d

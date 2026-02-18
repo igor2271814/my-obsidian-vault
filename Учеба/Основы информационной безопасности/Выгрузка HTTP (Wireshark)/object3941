@@ -1,0 +1,23 @@
+</li>
+                <li class="menu-item--_78681ef-cc0c-4955-bb3c-3b6d13f43c50 menu-name--main">
+        <a href="/index.php/public_listening" data-drupal-link-system-path="taxonomy/term/4">Публичные слушания</a>
+              </li>
+                <li class="menu-item--a5c24256-24ed-4869-bffd-8b2979edd591 menu-name--main">
+        <a href="/index.php/polls" title="Опросы" data-drupal-link-system-path="polls">Опросы</a>
+              </li>
+                <li class="menu-item--fe15bbb3-de0e-44ac-9a6e-dd4f383531fa menu-name--main">
+        <a href="/index.php/activity" data-drupal-link-system-path="activity">Последние материалы</a>
+                                <ul>
+                    <li class="menu-item--viewsactivity-advancedpage-1 menu-name--main">
+        <a href="/index.php/activity/advanced" data-drupal-link-system-path="activity/advanced">Последние материалы (расширенное представление)</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li class="menu-item--viewsnovosti-ot-primorsky-ru-feedpage-1 menu-name--main">
+        <a href="/index.php/news/primorsky_ru" title="Новости от primorsky.ru" data-drupal-link-system-path="news/primorsky_ru">Новости от primorsky.ru</a>
+              </li>
+        </ul>
+  
+              </li>
+                <li clas
